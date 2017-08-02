@@ -1,0 +1,665 @@
+10:03:34 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:03:34 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+)
+10:03:52 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:03:52 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+)
+10:04:20 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:04:20 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+)
+10:04:53 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:04:53 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+  'id' => '11',
+  'yyid' => 'DD059DE460C111E7882668F728954D54',
+  'name' => '太洛汀',
+  'c_name' => '注射用胸腺法新',
+  'e_name' => 'Thymalfasin for Injection',
+  'py_name' => 'Zhusheyong Xiongxianfaxin',
+  'type' => '1',
+  'approval_id' => '国药准字H20133153',
+  'specs' => '1.6mg',
+  'dosage_form' => 'dosage_form',
+  'indication' => '1.慢性乙型肝炎。',
+  'ingredients' => '分子式： C129H215N33O55',
+  'shape' => '本品为白色或类白色疏松块状物。',
+  'usage' => '用前每瓶胸腺法新（1.6mg）以1ml注射用水溶解后立即皮下注射（不应作肌注或静注）。',
+  'adverse_reaction' => 'adverse_reaction',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '2017-07-04 22:05:41',
+  'update_date' => '2017-07-04 22:05:41',
+)
+10:06:28 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:06:30 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:07:45 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:09:10 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:09:21 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:09:44 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:09:44 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+  'yyid' => 'DD059DE460C111E7882668F728954D54',
+  'name' => '太洛汀',
+  'c_name' => '注射用胸腺法新',
+  'e_name' => 'Thymalfasin for Injection',
+  'py_name' => 'Zhusheyong Xiongxianfaxin',
+  'type' => '1',
+  'approval_id' => '国药准字H20133153',
+  'specs' => '1.6mg',
+  'dosage_form' => 'dosage_form',
+  'indication' => '1.慢性乙型肝炎。',
+  'ingredients' => '分子式： C129H215N33O55',
+  'shape' => '本品为白色或类白色疏松块状物。',
+  'adverse_reaction' => 'adverse_reaction',
+  'taboo' => 'taboo',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '2017-07-04 22:05:41',
+)
+10:10:41 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:10:41 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+)
+10:10:43 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:10:43 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+)
+10:10:45 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:10:45 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+)
+10:11:06 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:11:06 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+)
+10:11:20 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:11:20 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+)
+10:11:36 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:11:36 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+)
+10:12:04 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:12:04 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+)
+10:12:05 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:12:05 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+)
+10:12:39 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:12:39 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+)
+10:12:52 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:12:52 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+  'id' => '11',
+  'yyid' => 'DD059DE460C111E7882668F728954D54',
+  'name' => '太洛汀',
+  'c_name' => '注射用胸腺法新',
+  'e_name' => 'Thymalfasin for Injection',
+  'py_name' => 'Zhusheyong Xiongxianfaxin',
+  'type' => '1',
+  'approval_id' => '国药准字H20133153',
+  'specs' => '1.6mg',
+  'dosage_form' => 'dosage_form',
+  'indication' => '1.慢性乙型肝炎。',
+  'ingredients' => '分子式： C129H215N33O55',
+  'shape' => '本品为白色或类白色疏松块状物。',
+  'usage' => '用前每瓶胸腺法新（1.6mg）以1ml注射用水溶解后立即皮下注射（不应作肌注或静注）。',
+  'adverse_reaction' => 'adverse_reaction',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '2017-07-04 22:05:41',
+  'update_date' => '2017-07-04 22:05:41',
+)
+10:16:39 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:16:41 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:41:12 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:41:12 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+  'yyid' => 'DD059DE460C111E7882668F728954D54',
+  'name' => '太洛汀',
+  'c_name' => '注射用胸腺法新',
+  'e_name' => 'Thymalfasin for Injection',
+  'py_name' => 'Zhusheyong Xiongxianfaxin',
+  'type' => '1',
+  'approval_id' => '国药准字H20133153',
+  'specs' => '1.6mg',
+  'dosage_form' => 'dosage_form',
+  'indication' => '1.慢性乙型肝炎。',
+  'ingredients' => '分子式： C129H215N33O55',
+  'shape' => '本品为白色或类白色疏松块状物。',
+  'usage' => '用前每瓶胸腺法新（1.6mg）以1ml注射用水溶解后立即皮下注射（不应作肌注或静注）。',
+  'adverse_reaction' => 'adverse_reaction',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '2017-07-04 22:05:41',
+)
+10:41:33 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:41:33 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+  'yyid' => 'DD059DE460C111E7882668F728954D54',
+  'name' => '太洛汀',
+  'c_name' => '注射用胸腺法新',
+  'e_name' => 'Thymalfasin for Injection',
+  'py_name' => 'Zhusheyong Xiongxianfaxin',
+  'type' => '1',
+  'approval_id' => '国药准字H20133153',
+  'specs' => '1.6mg',
+  'dosage_form' => 'dosage_form',
+  'indication' => '1.慢性乙型肝炎。',
+  'ingredients' => '分子式： C129H215N33O55',
+  'shape' => '本品为白色或类白色疏松块状物。',
+  'usage' => '用前每瓶胸腺法新（1.6mg）以1ml注射用水溶解后立即皮下注射（不应作肌注或静注）。',
+  'adverse_reaction' => 'adverse_reaction',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '2017-07-04 22:05:41',
+)
+10:45:37 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+10:45:37 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	48	array (
+  'yyid' => 'DD059DE460C111E7882668F728954D54',
+  'name' => '太洛汀',
+  'c_name' => '注射用胸腺法新',
+  'e_name' => 'Thymalfasin for Injection',
+  'py_name' => 'Zhusheyong Xiongxianfaxin',
+  'type' => '1',
+  'approval_id' => '国药准字H20133153',
+  'specs' => '1.6mg',
+  'dosage_form' => 'dosage_form',
+  'indication' => '1.慢性乙型肝炎。',
+  'ingredients' => '分子式： C129H215N33O55',
+  'shape' => '本品为白色或类白色疏松块状物。',
+  'usage' => '用前每瓶胸腺法新（1.6mg）以1ml注射用水溶解后立即皮下注射（不应作肌注或静注）。',
+  'adverse_reaction' => 'adverse_reaction',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '2017-07-04 22:05:41',
+  'update_date' => '2017-07-04 22:05:41',
+)
+11:24:36 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	90	array (
+  'numFound' => 16,
+  'start' => 0,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => '1553A95D534411E79E6C68F728954D54',
+      'name' => '上海曙光医院东院',
+      'grade' => '三级甲等',
+      'address' => '上海市浦东张江高科技园区张衡路528号',
+    ),
+    1 => 
+    array (
+      'yyid' => '05122457534511E79E6C68F728954D54',
+      'name' => '上海曙光医院西院',
+      'grade' => '三级甲等',
+      'address' => '上海市黄浦区普安路185号',
+    ),
+    2 => 
+    array (
+      'yyid' => 'BBA99ED9534311E79E6C68F728954D54',
+      'name' => '上海中医药大学附属曙光医院宝山分院',
+      'grade' => '三级甲等',
+      'address' => '上海市宝山区友谊路181号',
+    ),
+    3 => 
+    array (
+      'yyid' => '179C3C12534511E79E6C68F728954D54',
+      'name' => '上海市松江区方塔中医医院',
+      'grade' => '二级甲等',
+      'address' => '松江区中山东路39号',
+    ),
+    4 => 
+    array (
+      'yyid' => '1548CDCB542211E79E6C68F728954D54',
+      'name' => '鞍山曙光医院',
+      'grade' => '二级甲等',
+      'address' => '鞍山市立山区深沟路339号',
+    ),
+    5 => 
+    array (
+      'yyid' => '0D91645F534411E79E6C68F728954D54',
+      'name' => '上海儿童医院',
+      'grade' => '三级甲等',
+      'address' => '泸定路院区:上海市泸定路355号; 北京西路院区:上海市北京西路1400弄24号',
+    ),
+    6 => 
+    array (
+      'yyid' => 'A1670890534311E79E6C68F728954D54',
+      'name' => '上海市第五人民医院',
+      'grade' => '三级',
+      'address' => '上海市闵行区瑞丽路128号',
+    ),
+    7 => 
+    array (
+      'yyid' => '1BE5F08D534511E79E6C68F728954D54',
+      'name' => '上海第十人民医院',
+      'grade' => '三级甲等',
+      'address' => '上海市延长中路301号',
+    ),
+    8 => 
+    array (
+      'yyid' => 'D78AA209534411E79E6C68F728954D54',
+      'name' => '上海市肺科医院',
+      'grade' => '三级甲等',
+      'address' => '上海市杨浦区政民路507号',
+    ),
+    9 => 
+    array (
+      'yyid' => 'DFCFC00E534411E79E6C68F728954D54',
+      'name' => '上海市东方医院',
+      'grade' => '三级甲等',
+      'address' => '本部:上海市浦东新区即墨路150号;南院:上海市浦东新区云台路1800号',
+    ),
+  ),
+)
+11:24:39 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	90	array (
+  'numFound' => 16,
+  'start' => 0,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => '1553A95D534411E79E6C68F728954D54',
+      'name' => '上海曙光医院东院',
+      'grade' => '三级甲等',
+      'address' => '上海市浦东张江高科技园区张衡路528号',
+    ),
+    1 => 
+    array (
+      'yyid' => '05122457534511E79E6C68F728954D54',
+      'name' => '上海曙光医院西院',
+      'grade' => '三级甲等',
+      'address' => '上海市黄浦区普安路185号',
+    ),
+    2 => 
+    array (
+      'yyid' => 'BBA99ED9534311E79E6C68F728954D54',
+      'name' => '上海中医药大学附属曙光医院宝山分院',
+      'grade' => '三级甲等',
+      'address' => '上海市宝山区友谊路181号',
+    ),
+    3 => 
+    array (
+      'yyid' => '179C3C12534511E79E6C68F728954D54',
+      'name' => '上海市松江区方塔中医医院',
+      'grade' => '二级甲等',
+      'address' => '松江区中山东路39号',
+    ),
+    4 => 
+    array (
+      'yyid' => '1548CDCB542211E79E6C68F728954D54',
+      'name' => '鞍山曙光医院',
+      'grade' => '二级甲等',
+      'address' => '鞍山市立山区深沟路339号',
+    ),
+    5 => 
+    array (
+      'yyid' => '0D91645F534411E79E6C68F728954D54',
+      'name' => '上海儿童医院',
+      'grade' => '三级甲等',
+      'address' => '泸定路院区:上海市泸定路355号; 北京西路院区:上海市北京西路1400弄24号',
+    ),
+    6 => 
+    array (
+      'yyid' => 'A1670890534311E79E6C68F728954D54',
+      'name' => '上海市第五人民医院',
+      'grade' => '三级',
+      'address' => '上海市闵行区瑞丽路128号',
+    ),
+    7 => 
+    array (
+      'yyid' => '1BE5F08D534511E79E6C68F728954D54',
+      'name' => '上海第十人民医院',
+      'grade' => '三级甲等',
+      'address' => '上海市延长中路301号',
+    ),
+    8 => 
+    array (
+      'yyid' => 'D78AA209534411E79E6C68F728954D54',
+      'name' => '上海市肺科医院',
+      'grade' => '三级甲等',
+      'address' => '上海市杨浦区政民路507号',
+    ),
+    9 => 
+    array (
+      'yyid' => 'DFCFC00E534411E79E6C68F728954D54',
+      'name' => '上海市东方医院',
+      'grade' => '三级甲等',
+      'address' => '本部:上海市浦东新区即墨路150号;南院:上海市浦东新区云台路1800号',
+    ),
+  ),
+)
+11:25:09 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	90	array (
+  'numFound' => 16,
+  'start' => 10,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => 'A85A6FB1542111E79E6C68F728954D54',
+      'name' => '楚雄州人民医院',
+      'grade' => '三级甲等',
+      'address' => '楚雄州市鹿城区南路318号',
+    ),
+    1 => 
+    array (
+      'yyid' => 'F179993F534311E79E6C68F728954D54',
+      'name' => '桐乡市中医院',
+      'grade' => '三级',
+      'address' => '浙江省桐乡市茅盾西路136号',
+    ),
+    2 => 
+    array (
+      'yyid' => '567FE40F534411E79E6C68F728954D54',
+      'name' => '杨浦区中医院',
+      'grade' => '二级甲等',
+      'address' => '上海市杨浦区眉州路185号',
+    ),
+    3 => 
+    array (
+      'yyid' => '91B7C25C534411E79E6C68F728954D54',
+      'name' => '海门市人民医院',
+      'grade' => '二级甲等',
+      'address' => '江苏省海门市人民西路253号',
+    ),
+    4 => 
+    array (
+      'yyid' => '97F55F59534411E79E6C68F728954D54',
+      'name' => '江阴市中医院',
+      'grade' => '三级',
+      'address' => '江苏省江阴市人民中路130号',
+    ),
+    5 => 
+    array (
+      'yyid' => '7A5885A2534411E79E6C68F728954D54',
+      'name' => '广东省中西医结合医院',
+      'grade' => '三级甲等',
+      'address' => '广东省佛山市南海区桂城南五路16号',
+    ),
+  ),
+)
+11:25:22 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	90	array (
+  'numFound' => 16,
+  'start' => 20,
+  'docs' => 
+  array (
+  ),
+)
+11:25:30 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	90	array (
+  'numFound' => 16,
+  'start' => 0,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => '1553A95D534411E79E6C68F728954D54',
+      'name' => '上海曙光医院东院',
+      'grade' => '三级甲等',
+      'address' => '上海市浦东张江高科技园区张衡路528号',
+    ),
+    1 => 
+    array (
+      'yyid' => '05122457534511E79E6C68F728954D54',
+      'name' => '上海曙光医院西院',
+      'grade' => '三级甲等',
+      'address' => '上海市黄浦区普安路185号',
+    ),
+    2 => 
+    array (
+      'yyid' => 'BBA99ED9534311E79E6C68F728954D54',
+      'name' => '上海中医药大学附属曙光医院宝山分院',
+      'grade' => '三级甲等',
+      'address' => '上海市宝山区友谊路181号',
+    ),
+    3 => 
+    array (
+      'yyid' => '179C3C12534511E79E6C68F728954D54',
+      'name' => '上海市松江区方塔中医医院',
+      'grade' => '二级甲等',
+      'address' => '松江区中山东路39号',
+    ),
+    4 => 
+    array (
+      'yyid' => '1548CDCB542211E79E6C68F728954D54',
+      'name' => '鞍山曙光医院',
+      'grade' => '二级甲等',
+      'address' => '鞍山市立山区深沟路339号',
+    ),
+    5 => 
+    array (
+      'yyid' => '0D91645F534411E79E6C68F728954D54',
+      'name' => '上海儿童医院',
+      'grade' => '三级甲等',
+      'address' => '泸定路院区:上海市泸定路355号; 北京西路院区:上海市北京西路1400弄24号',
+    ),
+    6 => 
+    array (
+      'yyid' => 'A1670890534311E79E6C68F728954D54',
+      'name' => '上海市第五人民医院',
+      'grade' => '三级',
+      'address' => '上海市闵行区瑞丽路128号',
+    ),
+    7 => 
+    array (
+      'yyid' => '1BE5F08D534511E79E6C68F728954D54',
+      'name' => '上海第十人民医院',
+      'grade' => '三级甲等',
+      'address' => '上海市延长中路301号',
+    ),
+    8 => 
+    array (
+      'yyid' => 'D78AA209534411E79E6C68F728954D54',
+      'name' => '上海市肺科医院',
+      'grade' => '三级甲等',
+      'address' => '上海市杨浦区政民路507号',
+    ),
+    9 => 
+    array (
+      'yyid' => 'DFCFC00E534411E79E6C68F728954D54',
+      'name' => '上海市东方医院',
+      'grade' => '三级甲等',
+      'address' => '本部:上海市浦东新区即墨路150号;南院:上海市浦东新区云台路1800号',
+    ),
+  ),
+)
+11:43:43 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	90	array (
+  'numFound' => 16,
+  'start' => 0,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => '1553A95D534411E79E6C68F728954D54',
+      'name' => '上海曙光医院东院',
+      'grade' => '三级甲等',
+      'address' => '上海市浦东张江高科技园区张衡路528号',
+    ),
+    1 => 
+    array (
+      'yyid' => '05122457534511E79E6C68F728954D54',
+      'name' => '上海曙光医院西院',
+      'grade' => '三级甲等',
+      'address' => '上海市黄浦区普安路185号',
+    ),
+    2 => 
+    array (
+      'yyid' => 'BBA99ED9534311E79E6C68F728954D54',
+      'name' => '上海中医药大学附属曙光医院宝山分院',
+      'grade' => '三级甲等',
+      'address' => '上海市宝山区友谊路181号',
+    ),
+    3 => 
+    array (
+      'yyid' => '179C3C12534511E79E6C68F728954D54',
+      'name' => '上海市松江区方塔中医医院',
+      'grade' => '二级甲等',
+      'address' => '松江区中山东路39号',
+    ),
+    4 => 
+    array (
+      'yyid' => '1548CDCB542211E79E6C68F728954D54',
+      'name' => '鞍山曙光医院',
+      'grade' => '二级甲等',
+      'address' => '鞍山市立山区深沟路339号',
+    ),
+    5 => 
+    array (
+      'yyid' => '0D91645F534411E79E6C68F728954D54',
+      'name' => '上海儿童医院',
+      'grade' => '三级甲等',
+      'address' => '泸定路院区:上海市泸定路355号; 北京西路院区:上海市北京西路1400弄24号',
+    ),
+    6 => 
+    array (
+      'yyid' => 'A1670890534311E79E6C68F728954D54',
+      'name' => '上海市第五人民医院',
+      'grade' => '三级',
+      'address' => '上海市闵行区瑞丽路128号',
+    ),
+    7 => 
+    array (
+      'yyid' => '1BE5F08D534511E79E6C68F728954D54',
+      'name' => '上海第十人民医院',
+      'grade' => '三级甲等',
+      'address' => '上海市延长中路301号',
+    ),
+    8 => 
+    array (
+      'yyid' => 'D78AA209534411E79E6C68F728954D54',
+      'name' => '上海市肺科医院',
+      'grade' => '三级甲等',
+      'address' => '上海市杨浦区政民路507号',
+    ),
+    9 => 
+    array (
+      'yyid' => 'DFCFC00E534411E79E6C68F728954D54',
+      'name' => '上海市东方医院',
+      'grade' => '三级甲等',
+      'address' => '本部:上海市浦东新区即墨路150号;南院:上海市浦东新区云台路1800号',
+    ),
+  ),
+)

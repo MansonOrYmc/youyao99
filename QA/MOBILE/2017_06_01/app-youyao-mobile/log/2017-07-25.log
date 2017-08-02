@@ -1,0 +1,255 @@
+23:47:59 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	163	9151DD465F1E11E7A1C868F728954D54 , 5EaKweK31tquPCVTcgkTre1N-ElxERreV2vbTD-u8l8
+23:47:59 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/dao/user/UserInfo.php	Dao_User_UserInfo	314	array (
+  'uid' => '5',
+  'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+  'sid' => '5EaKweK31tquPCVTcgkTre1N-ElxERreV2vbTD-u8l8',
+  'client_ip' => '127.0.0.1',
+  'status' => '1',
+  'created' => '1499874882',
+  'login_from' => 'wechat',
+)
+23:47:59 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Hospital.php	User_HospitalController	56	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'hospital' => 
+    array (
+      'yyid' => '1553A95D534411E79E6C68F728954D54',
+      'u_yyid' => '9151DD465F1E11E7A1C868F728954D54',
+      'name' => '上海曙光医院东院',
+      'grade' => '三级甲等',
+      'tel_num' => '021-20256666(总机),021-20256117(东院专家门诊咨询),021-20256600/20256606(东院特需、名老专家咨询预约)',
+      'address' => '上海市浦东张江高科技园区张衡路528号',
+      'traffic_guide' => '公交线路:地铁二号线张江高科站下',
+      'medical_guide' => '上海曙光医院是上海中医药大学附属医院之一。医院布局',
+      'introduction' => '上海曙光医院(东院)(上海市张衡路528号)',
+      'hos_dean' => '',
+      'annual_income' => '',
+      'use_rate' => '',
+      'p_department' => '',
+      'kn_department' => '',
+      'active_doctor' => '213',
+      'bed_num' => '1000',
+      'operation_num' => '2000',
+      'outpatient_num' => '3000',
+      'spider_url' => 'http://www.haodf.com/hospital/DE4roiYGYZwX-OrEpjdCy8jrf.htm',
+      'loc_code' => '424,17,18',
+      'status' => '1',
+      'views' => '0',
+      'map_long' => '121.59893',
+      'map_lat' => '31.193341',
+      'map_zoom' => '15',
+      'imgs_num' => '0',
+      'created' => '17-06-17 18:02:33',
+      'update_date' => '2017-07-07 20:31:05',
+    ),
+    'serve_drug_list' => 
+    array (
+      0 => 
+      array (
+        'yyid' => 'DE001CB660C111E7882668F728954D54',
+        'name' => '护固莱士 - edit',
+        'e_name' => 'Fibrin Sealant（Human）',
+        'specs' => '2毫升',
+        'img_url' => '',
+      ),
+      1 => 
+      array (
+        'yyid' => 'DE001CB660C111E7882668F728954D54',
+        'name' => '护固莱士 - edit',
+        'e_name' => 'Fibrin Sealant（Human）',
+        'specs' => '2毫升',
+        'img_url' => '',
+      ),
+    ),
+  ),
+  'userMsg' => 'normal request',
+  'msg' => 'normal request',
+)
+23:48:12 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	163	9151DD465F1E11E7A1C868F728954D54 , 5EaKweK31tquPCVTcgkTre1N-ElxERreV2vbTD-u8l8
+23:48:12 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Hospital.php	User_HospitalController	56	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'hospital' => 
+    array (
+      'yyid' => '1553A95D534411E79E6C68F728954D54',
+      'u_yyid' => '9151DD465F1E11E7A1C868F728954D54',
+      'name' => '上海曙光医院东院',
+      'grade' => '三级甲等',
+      'tel_num' => '021-20256666(总机),021-20256117(东院专家门诊咨询),021-20256600/20256606(东院特需、名老专家咨询预约)',
+      'address' => '上海市浦东张江高科技园区张衡路528号',
+      'traffic_guide' => '公交线路:地铁二号线张江高科站下',
+      'medical_guide' => '上海曙光医院是上海中医药大学附属医院之一。医院布局',
+      'introduction' => '上海曙光医院(东院)(上海市张衡路528号)',
+      'hos_dean' => '',
+      'annual_income' => '',
+      'use_rate' => '',
+      'p_department' => '',
+      'kn_department' => '',
+      'active_doctor' => '213',
+      'bed_num' => '1000',
+      'operation_num' => '2000',
+      'outpatient_num' => '3000',
+      'spider_url' => 'http://www.haodf.com/hospital/DE4roiYGYZwX-OrEpjdCy8jrf.htm',
+      'loc_code' => '424,17,18',
+      'status' => '1',
+      'views' => '0',
+      'map_long' => '121.59893',
+      'map_lat' => '31.193341',
+      'map_zoom' => '15',
+      'imgs_num' => '0',
+      'created' => '17-06-17 18:02:33',
+      'update_date' => '2017-07-07 20:31:05',
+    ),
+    'serve_drug_list' => 
+    array (
+      0 => 
+      array (
+        'yyid' => 'DE001CB660C111E7882668F728954D54',
+        'name' => '护固莱士 - edit',
+        'e_name' => 'Fibrin Sealant（Human）',
+        'specs' => '2毫升',
+        'img_url' => '',
+      ),
+      1 => 
+      array (
+        'yyid' => 'DE001CB660C111E7882668F728954D54',
+        'name' => '护固莱士 - edit',
+        'e_name' => 'Fibrin Sealant（Human）',
+        'specs' => '2毫升',
+        'img_url' => '',
+      ),
+    ),
+  ),
+  'userMsg' => 'normal request',
+  'msg' => 'normal request',
+)
+23:51:31 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	163	9151DD465F1E11E7A1C868F728954D54 , 5EaKweK31tquPCVTcgkTre1N-ElxERreV2vbTD-u8l8
+23:51:31 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Hospital.php	User_HospitalController	56	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'hospital' => 
+    array (
+      'yyid' => '1553A95D534411E79E6C68F728954D54',
+      'u_yyid' => '9151DD465F1E11E7A1C868F728954D54',
+      'name' => '上海曙光医院东院',
+      'grade' => '三级甲等',
+      'tel_num' => '021-20256666(总机),021-20256117(东院专家门诊咨询),021-20256600/20256606(东院特需、名老专家咨询预约)',
+      'address' => '上海市浦东张江高科技园区张衡路528号',
+      'traffic_guide' => '公交线路:地铁二号线张江高科站下',
+      'medical_guide' => '上海曙光医院是上海中医药大学附属医院之一。医院布局',
+      'introduction' => '上海曙光医院(东院)(上海市张衡路528号)',
+      'hos_dean' => '',
+      'annual_income' => '',
+      'use_rate' => '',
+      'p_department' => '',
+      'kn_department' => '',
+      'active_doctor' => '213',
+      'bed_num' => '1000',
+      'operation_num' => '2000',
+      'outpatient_num' => '3000',
+      'spider_url' => 'http://www.haodf.com/hospital/DE4roiYGYZwX-OrEpjdCy8jrf.htm',
+      'loc_code' => '424,17,18',
+      'status' => '1',
+      'views' => '0',
+      'map_long' => '121.59893',
+      'map_lat' => '31.193341',
+      'map_zoom' => '15',
+      'imgs_num' => '0',
+      'created' => '17-06-17 18:02:33',
+      'update_date' => '2017-07-07 20:31:05',
+    ),
+    'serve_drug_list' => 
+    array (
+      0 => 
+      array (
+        'yyid' => 'DE001CB660C111E7882668F728954D54',
+        'name' => '护固莱士 - edit',
+        'e_name' => 'Fibrin Sealant（Human）',
+        'specs' => '2毫升',
+        'img_url' => '',
+      ),
+      1 => 
+      array (
+        'yyid' => 'DE001CB660C111E7882668F728954D54',
+        'name' => '护固莱士 - edit',
+        'e_name' => 'Fibrin Sealant（Human）',
+        'specs' => '2毫升',
+        'img_url' => '',
+      ),
+    ),
+  ),
+  'userMsg' => 'normal request',
+  'msg' => 'normal request',
+)
+23:52:17 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	163	9151DD465F1E11E7A1C868F728954D54 , 5EaKweK31tquPCVTcgkTre1N-ElxERreV2vbTD-u8l8
+23:52:17 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/HospitalActive.php	User_HospitalActiveController	65	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'hospital_active' => 1,
+  ),
+  'userMsg' => 'normal request',
+  'msg' => 'normal request',
+)
+23:54:58 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	163	9151DD465F1E11E7A1C868F728954D54 , 5EaKweK31tquPCVTcgkTre1N-ElxERreV2vbTD-u8l8
+23:54:58 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Hospital.php	User_HospitalController	56	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'hospital' => 
+    array (
+      'yyid' => '1553A95D534411E79E6C68F728954D54',
+      'u_yyid' => '9151DD465F1E11E7A1C868F728954D54',
+      'name' => '上海曙光医院东院',
+      'grade' => '三级甲等',
+      'tel_num' => '021-20256666(总机),021-20256117(东院专家门诊咨询),021-20256600/20256606(东院特需、名老专家咨询预约)',
+      'address' => '上海市浦东张江高科技园区张衡路528号',
+      'traffic_guide' => '公交线路:地铁二号线张江高科站下',
+      'medical_guide' => '上海曙光医院是上海中医药大学附属医院之一。医院布局',
+      'introduction' => '上海曙光医院(东院)(上海市张衡路528号)',
+      'hos_dean' => '',
+      'annual_income' => '',
+      'use_rate' => '',
+      'p_department' => '',
+      'kn_department' => '',
+      'active_doctor' => '213',
+      'bed_num' => '1000',
+      'operation_num' => '2000',
+      'outpatient_num' => '3000',
+      'spider_url' => 'http://www.haodf.com/hospital/DE4roiYGYZwX-OrEpjdCy8jrf.htm',
+      'loc_code' => '424,17,18',
+      'status' => '1',
+      'views' => '0',
+      'map_long' => '121.59893',
+      'map_lat' => '31.193341',
+      'map_zoom' => '15',
+      'imgs_num' => '0',
+      'created' => '17-06-17 18:02:33',
+      'update_date' => '2017-07-07 20:31:05',
+    ),
+    'serve_drug_list' => 
+    array (
+      0 => 
+      array (
+        'yyid' => 'DE001CB660C111E7882668F728954D54',
+        'name' => '护固莱士 - edit',
+        'e_name' => 'Fibrin Sealant（Human）',
+        'specs' => '2毫升',
+        'img_url' => '',
+      ),
+      1 => 
+      array (
+        'yyid' => 'DE001CB660C111E7882668F728954D54',
+        'name' => '护固莱士 - edit',
+        'e_name' => 'Fibrin Sealant（Human）',
+        'specs' => '2毫升',
+        'img_url' => '',
+      ),
+    ),
+  ),
+  'userMsg' => 'normal request',
+  'msg' => 'normal request',
+)

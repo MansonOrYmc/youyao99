@@ -1,0 +1,61 @@
+23:01:26 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	9151DD465F1E11E7A1C868F728954D54 , 5EaKweK31tquPCVTcgkTre1N-ElxERreV2vbTD-u8l8
+23:01:27 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/dao/user/UserInfo.php	Dao_User_UserInfo	277	array (
+  'uid' => '5',
+  'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+  'sid' => '5EaKweK31tquPCVTcgkTre1N-ElxERreV2vbTD-u8l8',
+  'client_ip' => '127.0.0.1',
+  'status' => '1',
+  'created' => '1499874882',
+  'login_from' => 'wechat',
+)
+23:01:27 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Profile.php	User_ProfileController	51	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'base_info' => 
+    array (
+      'uid' => '5',
+      'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+      'name' => '蔡晓华',
+      'pass' => '',
+      'mail' => '',
+      'mail_verified' => '0',
+      'mobile_num' => '18616851610',
+      'mobile_verified' => '1',
+      'wechat' => '',
+      'weibo' => '',
+      'tengqq' => '',
+      'tel_num' => '',
+      'access' => '1498997054',
+      'login' => '1498997054',
+      'picture' => '0',
+      'v_status' => '1',
+      'v_date' => '2017',
+      'client_ip' => '127.0.0.1',
+      'last_client_ip' => '127.0.0.1',
+      'created' => '1498997054',
+      'update_date' => '2017-07-13 00:12:02',
+    ),
+    'agent_info' => 
+    array (
+      'aid' => '1',
+      'yyid' => '7B8EBBC45F3911E7A1C868F728954D54',
+      'u_yyid' => '9151DD465F1E11E7A1C868F728954D54',
+      'truename' => 'tony蔡',
+      'address' => '',
+      'employer_company' => '',
+      'expertise' => '',
+      'identitycard' => '',
+      'points' => '0',
+      'birthday' => '',
+      'city' => '0',
+      'work' => '123',
+      'education' => '0',
+      'status' => '1',
+      'created' => '1499008614',
+      'update_date' => '2017-07-13 00:12:02',
+    ),
+  ),
+  'userMsg' => 'normal request',
+  'msg' => 'normal request',
+)

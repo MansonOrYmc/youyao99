@@ -1,0 +1,67 @@
+23:12:32 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 10,
+  'start' => 0,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => '34B61DB06BC711E7BB3068F728954D54',
+      'name' => 'name1',
+      'address' => 'address',
+    ),
+    1 => 
+    array (
+      'yyid' => '3A34BE066BC711E7BB3068F728954D54',
+      'name' => 'name2',
+      'address' => 'address',
+    ),
+    2 => 
+    array (
+      'yyid' => '3F7285996BC711E7BB3068F728954D54',
+      'name' => 'name3',
+      'address' => 'address',
+    ),
+    3 => 
+    array (
+      'yyid' => '40315BC96BC711E7BB3068F728954D54',
+      'name' => 'name3',
+      'address' => 'address',
+    ),
+    4 => 
+    array (
+      'yyid' => '40D6288D6BC711E7BB3068F728954D54',
+      'name' => 'name3',
+      'address' => 'address',
+    ),
+    5 => 
+    array (
+      'yyid' => '418E6C8E6BC711E7BB3068F728954D54',
+      'name' => 'name3',
+      'address' => 'address',
+    ),
+    6 => 
+    array (
+      'yyid' => '423362636BC711E7BB3068F728954D54',
+      'name' => 'name3',
+      'address' => 'address',
+    ),
+    7 => 
+    array (
+      'yyid' => '42D472DA6BC711E7BB3068F728954D54',
+      'name' => 'name3',
+      'address' => 'address',
+    ),
+    8 => 
+    array (
+      'yyid' => '44787B0E6BC711E7BB3068F728954D54',
+      'name' => 'name3',
+      'address' => 'address',
+    ),
+    9 => 
+    array (
+      'yyid' => '520285D66BC711E7BB3068F728954D54',
+      'name' => 'name5',
+      'address' => 'address',
+    ),
+  ),
+)

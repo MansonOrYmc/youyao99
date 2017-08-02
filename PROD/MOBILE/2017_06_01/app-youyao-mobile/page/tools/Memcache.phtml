@@ -1,0 +1,59 @@
+<div style="margin-top:10px">
+	<div>
+		<form action="" method="post" id="cacheform">
+		  	<div style="height:25px;font-size:14px;font-weight:bold;">请输入需要清除的memcache key(逗号隔开)：</div>
+            <div style="height:25px;font-size:14px;font-weight:bold;">
+                请选择MEMCACHE分组：
+                <select name="memcache_group" id="memcache_group">
+                    <option value="orm_servers" <?php if($memcache_group==='orm_servers'){echo 'selected="selected"';} ?> >orm_servers</option>
+                    <option value="servers" <?php if($memcache_group==='servers'){echo 'selected="selected"';} ?> >servers</option>
+                </select>
+            </div>
+	  		<div><textarea name="<?php echo $input_name;?>" style="width:600px;height:100px;" wrap="on" id="<?php echo $input_name;?>"><?php echo $input_value;?></textarea></div>
+  			<div style="padding-top:10px;">
+  				<input type="button" name="findcache" id="findcache" value="查看缓存"/>
+  				<input type="button" name="deletecache" id="deletecache" value="删除缓存"/>
+  				<input type="button" name="deleteall" id="deleteall" value="清空输入框"/>
+  				<input type="hidden" name="<?php echo $act_name;?>" id="<?php echo $act_name;?>" value="1"/>
+  			</div>
+		</form>
+		<div>&nbsp;</div>
+		<table>
+		<?php
+		if(isset($findcache) and !empty($findcache)){
+			echo '<tr bgcolor="#CCCCCC"><th height="25" width="200">键值</th><th>内容</th></tr>';
+			foreach($findcache as $k=>$v){
+				$v = $v?'<pre>'.var_export($v,true).'<pre>':'空';
+				echo '<tr><td valign="top">'.$k.'</td><td>'.$v.'</td></tr>';
+			}
+		}
+
+		if(isset($deletecache) and !empty($deletecache)){
+			echo '<tr bgcolor="#CCCCCC"><th height="25" width="200">键值</th><th>操作</th></tr>';
+			foreach($deletecache as $k=>$v){
+				$v = $v?'<span style="color:green;">成功</span>':'<span style="color:red;">失败</span>';
+				echo '<tr style="broder:#CCCCCC solid 0px;border-bottom-width:1px;"><td>'.$k.'</td><td>'.$v.'</td></tr>';
+			}
+		}
+		?>
+		</table>
+
+	</div>
+</div>
+<?php $this->script_block_begin();?>
+<script language="JavaScript" type="text/javascript">
+	Event.observe($('findcache'),'click',function(){
+		$('<?php echo $act_name;?>').value = 1;
+		$('cacheform').submit();
+	});
+
+	Event.observe($('deletecache'),'click',function(){
+		$('<?php echo $act_name;?>').value = 2;
+		$('cacheform').submit();
+	});
+
+	Event.observe($('deleteall'),'click',function(){
+		$('<?php echo $input_name;?>').value = '';
+	});
+</script>
+<?php $this->script_block_end();?>

@@ -1,0 +1,856 @@
+00:04:28 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	9151DD465F1E11E7A1C868F728954D54 , 5EaKweK31tquPCVTcgkTre1N-ElxERreV2vbTD-u8l8
+00:04:28 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Profile.php	User_ProfileController	51	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'base_info' => 
+    array (
+      'uid' => '5',
+      'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+      'name' => '蔡晓华a',
+      'pass' => '',
+      'mail' => '',
+      'mail_verified' => '0',
+      'mobile_num' => '18616851610',
+      'mobile_verified' => '1',
+      'wechat' => '',
+      'weibo' => '',
+      'tengqq' => '',
+      'tel_num' => '',
+      'access' => '1498997054',
+      'login' => '1498997054',
+      'picture' => '0',
+      'v_status' => '1',
+      'v_date' => '2017',
+      'client_ip' => '127.0.0.1',
+      'last_client_ip' => '127.0.0.1',
+      'created' => '1498997054',
+      'update_date' => '2017-07-02 23:17:49',
+    ),
+    'agent_info' => 
+    array (
+      'aid' => '1',
+      'yyid' => '7B8EBBC45F3911E7A1C868F728954D54',
+      'u_yyid' => '9151DD465F1E11E7A1C868F728954D54',
+      'truename' => 'tony蔡b',
+      'address' => '',
+      'employer_company' => '',
+      'expertise' => '',
+      'identitycard' => '',
+      'points' => '0',
+      'birthday' => '',
+      'city' => '0',
+      'work' => '123',
+      'education' => '0',
+      'status' => '1',
+      'created' => '1499008614',
+      'update_date' => '2017-07-02 23:17:49',
+    ),
+  ),
+  'userMsg' => 'normal request',
+  'msg' => 'normal request',
+)
+00:06:16 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	9151DD465F1E11E7A1C868F728954D54 , 5EaKweK31tquPCVTcgkTre1N-ElxERreV2vbTD-u8l8
+00:06:16 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Profile.php	User_ProfileController	51	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'base_info' => 
+    array (
+      'uid' => '5',
+      'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+      'name' => '蔡晓华a',
+      'pass' => '',
+      'mail' => '',
+      'mail_verified' => '0',
+      'mobile_num' => '18616851610',
+      'mobile_verified' => '1',
+      'wechat' => '',
+      'weibo' => '',
+      'tengqq' => '',
+      'tel_num' => '',
+      'access' => '1498997054',
+      'login' => '1498997054',
+      'picture' => '0',
+      'v_status' => '1',
+      'v_date' => '2017',
+      'client_ip' => '127.0.0.1',
+      'last_client_ip' => '127.0.0.1',
+      'created' => '1498997054',
+      'update_date' => '2017-07-02 23:17:49',
+    ),
+    'agent_info' => 
+    array (
+      'aid' => '1',
+      'yyid' => '7B8EBBC45F3911E7A1C868F728954D54',
+      'u_yyid' => '9151DD465F1E11E7A1C868F728954D54',
+      'truename' => 'tony蔡b',
+      'address' => '',
+      'employer_company' => '',
+      'expertise' => '',
+      'identitycard' => '',
+      'points' => '0',
+      'birthday' => '',
+      'city' => '0',
+      'work' => '123',
+      'education' => '0',
+      'status' => '1',
+      'created' => '1499008614',
+      'update_date' => '2017-07-02 23:17:49',
+    ),
+  ),
+  'userMsg' => 'normal request',
+  'msg' => 'normal request',
+)
+00:07:04 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	9151DD465F1E11E7A1C868F728954D54 , 5EaKweK31tquPCVTcgkTre1N-ElxERreV2vbTD-u8l8
+00:07:04 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Profile.php	User_ProfileController	51	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'base_info' => 
+    array (
+      'uid' => '5',
+      'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+      'name' => '蔡晓华a',
+      'pass' => '',
+      'mail' => '',
+      'mail_verified' => '0',
+      'mobile_num' => '18616851610',
+      'mobile_verified' => '1',
+      'wechat' => '',
+      'weibo' => '',
+      'tengqq' => '',
+      'tel_num' => '',
+      'access' => '1498997054',
+      'login' => '1498997054',
+      'picture' => '0',
+      'v_status' => '1',
+      'v_date' => '2017',
+      'client_ip' => '127.0.0.1',
+      'last_client_ip' => '127.0.0.1',
+      'created' => '1498997054',
+      'update_date' => '2017-07-02 23:17:49',
+    ),
+    'agent_info' => 
+    array (
+      'aid' => '1',
+      'yyid' => '7B8EBBC45F3911E7A1C868F728954D54',
+      'u_yyid' => '9151DD465F1E11E7A1C868F728954D54',
+      'truename' => 'tony蔡b',
+      'address' => '',
+      'employer_company' => '',
+      'expertise' => '',
+      'identitycard' => '',
+      'points' => '0',
+      'birthday' => '',
+      'city' => '0',
+      'work' => '123',
+      'education' => '0',
+      'status' => '1',
+      'created' => '1499008614',
+      'update_date' => '2017-07-02 23:17:49',
+    ),
+  ),
+  'userMsg' => 'normal request',
+  'msg' => 'normal request',
+)
+00:11:22 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileEdit.php	User_ProfileEditController	22	array (
+  'name' => '蔡晓华',
+  'os' => 'wechat',
+  'truename' => 'tony蔡',
+  'user_token' => 'wRHHiNFl2lFbOTQ6JvcwnYHIkAWbXQxC0o2Um5L_aUg',
+  'v' => '1',
+  'work' => '123',
+  'yyid' => 'C3B12B535FE211E7A54A5254009FF7CE',
+)
+00:11:22 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	C3B12B535FE211E7A54A5254009FF7CE , wRHHiNFl2lFbOTQ6JvcwnYHIkAWbXQxC0o2Um5L_aUg
+00:11:22 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/dao/user/UserInfo.php	Dao_User_UserInfo	277	false
+00:12:02 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileEdit.php	User_ProfileEditController	22	array (
+  'name' => '蔡晓华',
+  'os' => 'wechat',
+  'truename' => 'tony蔡',
+  'user_token' => '5EaKweK31tquPCVTcgkTre1N-ElxERreV2vbTD-u8l8',
+  'v' => '1',
+  'work' => '123',
+  'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+)
+00:12:02 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	9151DD465F1E11E7A1C868F728954D54 , 5EaKweK31tquPCVTcgkTre1N-ElxERreV2vbTD-u8l8
+00:12:02 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileEdit.php	User_ProfileEditController	63	array (
+  'name' => '蔡晓华',
+  'mail' => '',
+  'mail_verified' => 0,
+  'wechat' => '',
+  'weibo' => '',
+  'tengqq' => '',
+  'tel_num' => '',
+  'picture' => '',
+)
+00:12:02 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/dao/user/UserInfo.php	Dao_User_UserInfo	162	array (
+  'name' => '蔡晓华',
+  'mail' => '',
+  'mail_verified' => 0,
+  'wechat' => '',
+  'weibo' => '',
+  'tengqq' => '',
+  'tel_num' => '',
+  'picture' => '',
+  'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+)
+00:12:02 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileEdit.php	User_ProfileEditController	79	array (
+  'truename' => 'tony蔡',
+  'address' => '',
+  'employer_company' => '',
+  'expertise' => '',
+  'identitycard' => '',
+  'birthday' => '',
+  'city' => '',
+  'work' => '123',
+  'education' => '',
+)
+00:12:02 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/dao/user/UserInfo.php	Dao_User_UserInfo	177	array (
+  'truename' => 'tony蔡',
+  'address' => '',
+  'employer_company' => '',
+  'expertise' => '',
+  'identitycard' => '',
+  'birthday' => '',
+  'city' => '',
+  'work' => '123',
+  'education' => '',
+  'u_yyid' => '9151DD465F1E11E7A1C868F728954D54',
+)
+01:05:50 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileVerify.php	User_ProfileVerifyController	17	array (
+  'action' => 'register',
+  'code' => '508857',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:05:50 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	244	array (
+  'action' => 'register',
+  'code' => '508857',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:05:50 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	333	array (
+  'action' => 'register',
+  'code' => '508857',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:06:34 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileVerify.php	User_ProfileVerifyController	17	array (
+  'action' => 'register',
+  'code' => '508857',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:06:34 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	244	array (
+  'action' => 'register',
+  'code' => '508857',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:06:34 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	333	array (
+  'action' => 'register',
+  'code' => '508857',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:06:34 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	192	array (
+)
+01:06:34 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	421	array (
+  'status' => 200,
+  'data' => 
+  array (
+  ),
+  'userMsg' => 'signin_fail',
+  'msg' => 'signin_fail',
+)
+01:06:40 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileVerify.php	User_ProfileVerifyController	17	array (
+  'action' => 'register',
+  'code' => '508857',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:06:40 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	244	array (
+  'action' => 'register',
+  'code' => '508857',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:06:40 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	333	array (
+  'action' => 'register',
+  'code' => '508857',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:06:40 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	192	array (
+)
+01:06:40 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	421	array (
+  'status' => 200,
+  'data' => 
+  array (
+  ),
+  'userMsg' => 'signin_fail',
+  'msg' => 'signin_fail',
+)
+01:09:22 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileVerify.php	User_ProfileVerifyController	17	array (
+  'action' => 'register',
+  'code' => '508857',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:09:22 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	244	array (
+  'action' => 'register',
+  'code' => '508857',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:09:22 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	333	array (
+  'action' => 'register',
+  'code' => '508857',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:09:22 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	192	array (
+)
+01:09:22 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	202	array (
+  'uid' => '5',
+  'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+  'name' => '蔡晓华',
+  'pass' => '',
+  'mail' => '',
+  'mail_verified' => '0',
+  'mobile_num' => '18616851610',
+  'mobile_verified' => '1',
+  'wechat' => '',
+  'weibo' => '',
+  'tengqq' => '',
+  'tel_num' => '',
+  'access' => '1498997054',
+  'login' => '1498997054',
+  'picture' => '0',
+  'v_status' => '1',
+  'v_date' => '2017',
+  'client_ip' => '127.0.0.1',
+  'last_client_ip' => '127.0.0.1',
+  'created' => '1498997054',
+  'update_date' => '2017-07-13 00:12:02',
+)
+01:09:22 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	224	array (
+  'uid' => '5',
+  'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+  'name' => '蔡晓华',
+  'pass' => '',
+  'mail' => '',
+  'mail_verified' => '0',
+  'mobile_num' => '18616851610',
+  'mobile_verified' => '1',
+  'wechat' => '',
+  'weibo' => '',
+  'tengqq' => '',
+  'tel_num' => '',
+  'access' => '1498997054',
+  'login' => '1498997054',
+  'picture' => '0',
+  'v_status' => '1',
+  'v_date' => '2017',
+  'client_ip' => '127.0.0.1',
+  'last_client_ip' => '127.0.0.1',
+  'created' => '1498997054',
+  'update_date' => '2017-07-13 00:12:02',
+  'user_token' => 'PknwoFFuOUcOoXbObNa2rQUqc9-sDGsRoPXFLCmQ50o',
+)
+01:09:22 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	421	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'uid' => '5',
+    'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+    'name' => '蔡晓华',
+    'pass' => '',
+    'mail' => '',
+    'mail_verified' => '0',
+    'mobile_num' => '18616851610',
+    'mobile_verified' => '1',
+    'wechat' => '',
+    'weibo' => '',
+    'tengqq' => '',
+    'tel_num' => '',
+    'access' => '1498997054',
+    'login' => '1498997054',
+    'picture' => '0',
+    'v_status' => '1',
+    'v_date' => '2017',
+    'client_ip' => '127.0.0.1',
+    'last_client_ip' => '127.0.0.1',
+    'created' => '1498997054',
+    'update_date' => '2017-07-13 00:12:02',
+    'user_token' => 'PknwoFFuOUcOoXbObNa2rQUqc9-sDGsRoPXFLCmQ50o',
+  ),
+  'userMsg' => 'signin_success',
+  'msg' => 'signin_success',
+)
+01:09:39 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileVerify.php	User_ProfileVerifyController	17	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:09:39 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	244	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:09:39 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	333	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:09:39 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	421	array (
+  'status' => 200,
+  'data' => 
+  array (
+  ),
+  'userMsg' => 'signin_fail',
+  'msg' => 'signin_fail',
+)
+01:10:01 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileVerify.php	User_ProfileVerifyController	17	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:10:01 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	244	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:10:01 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	333	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:10:01 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	192	array (
+)
+01:10:01 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	202	array (
+  'uid' => '5',
+  'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+  'name' => '蔡晓华',
+  'pass' => '',
+  'mail' => '',
+  'mail_verified' => '0',
+  'mobile_num' => '18616851610',
+  'mobile_verified' => '1',
+  'wechat' => '',
+  'weibo' => '',
+  'tengqq' => '',
+  'tel_num' => '',
+  'access' => '1498997054',
+  'login' => '1498997054',
+  'picture' => '0',
+  'v_status' => '1',
+  'v_date' => '2017',
+  'client_ip' => '127.0.0.1',
+  'last_client_ip' => '127.0.0.1',
+  'created' => '1498997054',
+  'update_date' => '2017-07-13 00:12:02',
+)
+01:10:01 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	224	array (
+  'uid' => '5',
+  'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+  'name' => '蔡晓华',
+  'pass' => '',
+  'mail' => '',
+  'mail_verified' => '0',
+  'mobile_num' => '18616851610',
+  'mobile_verified' => '1',
+  'wechat' => '',
+  'weibo' => '',
+  'tengqq' => '',
+  'tel_num' => '',
+  'access' => '1498997054',
+  'login' => '1498997054',
+  'picture' => '0',
+  'v_status' => '1',
+  'v_date' => '2017',
+  'client_ip' => '127.0.0.1',
+  'last_client_ip' => '127.0.0.1',
+  'created' => '1498997054',
+  'update_date' => '2017-07-13 00:12:02',
+  'user_token' => '0jNbpF2Ls9KcnWGDam-PDlTWHg2AAUkRRxaYjlWa7jA',
+)
+01:10:01 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	421	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'uid' => '5',
+    'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+    'name' => '蔡晓华',
+    'pass' => '',
+    'mail' => '',
+    'mail_verified' => '0',
+    'mobile_num' => '18616851610',
+    'mobile_verified' => '1',
+    'wechat' => '',
+    'weibo' => '',
+    'tengqq' => '',
+    'tel_num' => '',
+    'access' => '1498997054',
+    'login' => '1498997054',
+    'picture' => '0',
+    'v_status' => '1',
+    'v_date' => '2017',
+    'client_ip' => '127.0.0.1',
+    'last_client_ip' => '127.0.0.1',
+    'created' => '1498997054',
+    'update_date' => '2017-07-13 00:12:02',
+    'user_token' => '0jNbpF2Ls9KcnWGDam-PDlTWHg2AAUkRRxaYjlWa7jA',
+  ),
+  'userMsg' => 'signin_success',
+  'msg' => 'signin_success',
+)
+01:10:46 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileVerify.php	User_ProfileVerifyController	17	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:10:46 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	244	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:10:46 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	333	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851610',
+  'v' => '1',
+)
+01:10:46 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	193	array (
+)
+01:10:46 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	203	array (
+  'uid' => '5',
+  'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+  'name' => '蔡晓华',
+  'pass' => '',
+  'mail' => '',
+  'mail_verified' => '0',
+  'mobile_num' => '18616851610',
+  'mobile_verified' => '1',
+  'wechat' => '',
+  'weibo' => '',
+  'tengqq' => '',
+  'tel_num' => '',
+  'access' => '1498997054',
+  'login' => '1498997054',
+  'picture' => '0',
+  'v_status' => '1',
+  'v_date' => '2017',
+  'client_ip' => '127.0.0.1',
+  'last_client_ip' => '127.0.0.1',
+  'created' => '1498997054',
+  'update_date' => '2017-07-13 00:12:02',
+)
+01:10:46 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	225	array (
+  'uid' => '5',
+  'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+  'name' => '蔡晓华',
+  'pass' => '',
+  'mail' => '',
+  'mail_verified' => '0',
+  'mobile_num' => '18616851610',
+  'mobile_verified' => '1',
+  'wechat' => '',
+  'weibo' => '',
+  'tengqq' => '',
+  'tel_num' => '',
+  'access' => '1498997054',
+  'login' => '1498997054',
+  'picture' => '0',
+  'v_status' => '1',
+  'v_date' => '2017',
+  'client_ip' => '127.0.0.1',
+  'last_client_ip' => '127.0.0.1',
+  'created' => '1498997054',
+  'update_date' => '2017-07-13 00:12:02',
+  'user_token' => 'FgMjL9RCz2gB8w-IOfEbn8NY1PhWgo7h_G8M1ZsSV70',
+)
+01:10:46 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	421	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'uid' => '5',
+    'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+    'name' => '蔡晓华',
+    'pass' => '',
+    'mail' => '',
+    'mail_verified' => '0',
+    'mobile_num' => '18616851610',
+    'mobile_verified' => '1',
+    'wechat' => '',
+    'weibo' => '',
+    'tengqq' => '',
+    'tel_num' => '',
+    'access' => '1498997054',
+    'login' => '1498997054',
+    'picture' => '0',
+    'v_status' => '1',
+    'v_date' => '2017',
+    'client_ip' => '127.0.0.1',
+    'last_client_ip' => '127.0.0.1',
+    'created' => '1498997054',
+    'update_date' => '2017-07-13 00:12:02',
+    'user_token' => 'FgMjL9RCz2gB8w-IOfEbn8NY1PhWgo7h_G8M1ZsSV70',
+  ),
+  'userMsg' => 'signin_success',
+  'msg' => 'signin_success',
+)
+01:11:01 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileVerify.php	User_ProfileVerifyController	17	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851611',
+  'v' => '1',
+)
+01:11:01 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	244	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851611',
+  'v' => '1',
+)
+01:11:01 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	317	18616851611 , 
+01:11:01 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	460	array (
+  'uid' => 0,
+  'name' => '',
+  'pass' => '',
+  'mail' => '',
+  'mail_verified' => 0,
+  'mobile_num' => '18616851611',
+  'mobile_verified' => 1,
+  'wechat' => '',
+  'weibo' => '',
+  'tengqq' => '',
+  'tel_num' => '',
+  'access' => 1499879461,
+  'login' => 1499879461,
+  'picture' => '',
+  'v_status' => 1,
+  'v_date' => 1499879461,
+  'client_ip' => '127.0.0.1',
+  'last_client_ip' => '127.0.0.1',
+  'created' => 1499879461,
+)
+01:11:01 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	319	array (
+  'status' => 200,
+  'data' => 
+  array (
+  ),
+  'userMsg' => 'registration_success',
+  'msg' => 'registration_success',
+)
+01:11:09 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileVerify.php	User_ProfileVerifyController	17	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851611',
+  'v' => '1',
+)
+01:11:09 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	244	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851611',
+  'v' => '1',
+)
+01:11:09 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	333	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851611',
+  'v' => '1',
+)
+01:11:09 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	193	array (
+)
+01:11:09 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	203	array (
+  'uid' => '6',
+  'yyid' => '14505127672511E7B4DE68F728954D54',
+  'name' => '',
+  'pass' => '',
+  'mail' => '',
+  'mail_verified' => '0',
+  'mobile_num' => '18616851611',
+  'mobile_verified' => '1',
+  'wechat' => '',
+  'weibo' => '',
+  'tengqq' => '',
+  'tel_num' => '',
+  'access' => '1499879461',
+  'login' => '1499879461',
+  'picture' => '0',
+  'v_status' => '1',
+  'v_date' => '1499879461',
+  'client_ip' => '127.0.0.1',
+  'last_client_ip' => '127.0.0.1',
+  'created' => '1499879461',
+  'update_date' => '2017-07-13 01:11:01',
+)
+01:11:10 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	225	array (
+  'uid' => '6',
+  'yyid' => '14505127672511E7B4DE68F728954D54',
+  'name' => '',
+  'pass' => '',
+  'mail' => '',
+  'mail_verified' => '0',
+  'mobile_num' => '18616851611',
+  'mobile_verified' => '1',
+  'wechat' => '',
+  'weibo' => '',
+  'tengqq' => '',
+  'tel_num' => '',
+  'access' => '1499879461',
+  'login' => '1499879461',
+  'picture' => '0',
+  'v_status' => '1',
+  'v_date' => '1499879461',
+  'client_ip' => '127.0.0.1',
+  'last_client_ip' => '127.0.0.1',
+  'created' => '1499879461',
+  'update_date' => '2017-07-13 01:11:01',
+  'user_token' => 'iOFztZCB_Oo5PUSiIIyJ1BiI_D7RZ4mpaelDxh6Nyt4',
+)
+01:11:10 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	421	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'uid' => '6',
+    'yyid' => '14505127672511E7B4DE68F728954D54',
+    'name' => '',
+    'pass' => '',
+    'mail' => '',
+    'mail_verified' => '0',
+    'mobile_num' => '18616851611',
+    'mobile_verified' => '1',
+    'wechat' => '',
+    'weibo' => '',
+    'tengqq' => '',
+    'tel_num' => '',
+    'access' => '1499879461',
+    'login' => '1499879461',
+    'picture' => '0',
+    'v_status' => '1',
+    'v_date' => '1499879461',
+    'client_ip' => '127.0.0.1',
+    'last_client_ip' => '127.0.0.1',
+    'created' => '1499879461',
+    'update_date' => '2017-07-13 01:11:01',
+    'user_token' => 'iOFztZCB_Oo5PUSiIIyJ1BiI_D7RZ4mpaelDxh6Nyt4',
+  ),
+  'userMsg' => 'signin_success',
+  'msg' => 'signin_success',
+)
+01:13:23 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileVerify.php	User_ProfileVerifyController	17	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851611',
+  'v' => '1',
+)
+01:13:23 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	244	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851611',
+  'v' => '1',
+)
+01:13:23 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	333	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851611',
+  'v' => '1',
+)
+01:13:23 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	421	array (
+  'status' => 200,
+  'data' => 
+  array (
+  ),
+  'userMsg' => 'signin_fail',
+  'msg' => 'signin_fail',
+)
+01:14:06 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileVerify.php	User_ProfileVerifyController	17	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851611',
+  'v' => '1',
+)
+01:14:06 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	244	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851611',
+  'v' => '1',
+)
+01:14:06 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	333	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851611',
+  'v' => '1',
+)
+01:14:06 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	421	array (
+  'status' => 200,
+  'data' => 
+  array (
+  ),
+  'userMsg' => 'signin_fail',
+  'msg' => 'signin_fail',
+)
+01:14:51 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileVerify.php	User_ProfileVerifyController	17	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851611',
+  'v' => '1',
+)
+01:14:51 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	244	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851611',
+  'v' => '1',
+)
+01:14:51 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Register.php	User_RegisterController	333	array (
+  'action' => 'register',
+  'code' => '',
+  'os' => 'wechat',
+  'phonenum' => '18616851611',
+  'v' => '1',
+)

@@ -1,0 +1,88 @@
+<!DOCTYPE HTML PUBLIC "-//W3C//DTD HTML 4.01//EN" "http://www.w3.org/TR/html4/strict.dtd">
+<html>
+    <head>
+        <META HTTP-EQUIV="Content-Type" CONTENT="text/html; charset=UTF-8" />
+        <title><?php echo $this->get_title(); ?></title>
+        <?php
+            $apf = APF::get_instance();
+            $js_domain = $apf->get_config("js_domain", "resource");
+            $js_version = $apf->get_config("js_version", "resource");
+        ?>
+
+        <?php
+        foreach ($this->get_head_sections() as $section) :
+            echo $section, "\n";
+        endforeach;
+        ?>
+        <?php $this->component('APF_Resource_StyleBlocks'); ?>
+        <?php $this->component('APF_Resource_ScriptBlocks', 'head'); ?>
+        
+<link rel="stylesheet" href="http://pages.youyao.com/a/js/plug-in/calendar/calendar.css"/>
+<script type="text/javascript" src="http://pages.youyao.com/a/js/jquery.js"></script>
+<script src="http://pages.youyao.com/a/js/plug-in/calendar/calendar.js"></script>
+
+    
+    
+    </head>
+    
+
+    
+    
+    <body>
+        <?php $this->component($this->get_header()); ?>
+        <?php $this->real_page() ?>
+        <?php $this->component($this->get_footer()); ?>
+      
+        
+         <?php APF::get_instance()->benchmark_begin('Haozu_Core_ScriptBlocks') ?>
+        <?php $this->component('APF_Resource_ScriptBlocks'); ?>
+         <?php APF::get_instance()->benchmark_end('Haozu_Core_ScriptBlocks') ?>
+         
+         
+<script type="text/javascript">
+document.write(unescape("%3Cscript src='http://include.ch98.dev.youyao.com/zzk/res/20140912/s/page/Front.js' type='text/javascript'%3E%3C/script%3E"));
+</script>
+         
+<script type="text/javascript">       
+ try {
+		var st = new SiteTracker("web");
+		st.setPage("TestPage");
+		st.setReferer(document.referrer);
+		//st.track();
+	} catch (err) {}    
+</script>      
+         
+         
+ <script type="text/javascript">         
+$('input[name="sdate"]').click(function(){  
+	
+  var temp_in = $(this).val();
+  var temp_out = $('input[name="edate"]').val();
+
+  var c_in = new Date(Date.parse(temp_in.replace(/-/g, "/")));
+  c_in.setDate(c_in.getDate() + 1);  
+  var month = c_in.getMonth()+1;
+  var date = c_in.getDate();
+  if (month <10){
+    month = '0' + month;  
+  }
+  if (date <10){
+    date = '0' + date;  
+  }
+  $('input[name="edate"]').val(c_in.getFullYear()+"-"+month+"-"+date);
+  if (temp_out == '退房日期'){
+    $('input[name="edate"]').val(c_in.getFullYear()+"-"+month+"-"+date);
+  }
+  else{
+    var c_out = new Date(Date.parse(temp_out.replace(/-/g, "/")));
+    if (c_in >= c_out) {
+       $('input[name="edate"]').val(c_in.getFullYear()+"-"+month+"-"+date);
+     }		  	 
+  }  
+  alert("bbbb"+c_in.getDate());
+});
+         
+</script>     
+        
+</body>
+</html>

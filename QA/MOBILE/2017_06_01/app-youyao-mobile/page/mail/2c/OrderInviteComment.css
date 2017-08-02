@@ -1,0 +1,43 @@
+.main_header {
+    padding-left: 90px;
+    padding-right: 90px;
+    margin-top: 45px;
+    margin-bottom: 45px;
+    text-align: center;
+}
+
+.order_new_msg {
+    text-align: center;
+    font-size: 18px;
+    margin-bottom: 35px;
+}
+
+#pay_btn {
+    padding: 0 35px;
+    color: #1a1a1a;
+    font-size: 24px;
+    cursor: pointer;
+    background-color: #f9c939;
+    border-radius: 24px;
+    height: 48px;
+    line-height: 48px;
+    box-shadow: 0px 3px 0px #c49b27;
+    display: inline-block;
+    text-decoration: none;
+    margin-bottom: 35px;
+}
+
+.pay_link_tips {
+    margin-top: 5px;
+}
+
+#room_name {
+    margin-bottom: 42px;
+}
+
+#spec_services .service_name {
+    color: #1a1a1a;
+}
+#spec_services span {
+    margin-right: 10px;
+}

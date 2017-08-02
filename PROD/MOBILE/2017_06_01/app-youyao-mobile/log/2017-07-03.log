@@ -1,0 +1,63 @@
+15:58:50 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileEdit.php	User_ProfileEditController	18	array (
+  'name' => '蔡晓华a',
+  'os' => 'wechat',
+  'truename' => 'tony蔡b',
+  'user_token' => 'N2CntNKtPjTn3ykQV7ErMDewfSwQ4-CHBbA5GD8zbwM',
+  'v' => '1',
+  'work' => '123',
+  'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+)
+15:58:50 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	84	9151DD465F1E11E7A1C868F728954D54 , N2CntNKtPjTn3ykQV7ErMDewfSwQ4-CHBbA5GD8zbwM
+15:58:50 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/dao/user/UserInfo.php	Dao_User_UserInfo	197	array (
+  'uid' => '5',
+  'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+  'sid' => 'N2CntNKtPjTn3ykQV7ErMDewfSwQ4-CHBbA5GD8zbwM',
+  'client_ip' => '127.0.0.1',
+  'status' => '1',
+  'created' => '1498999325',
+  'login_from' => 'wechat',
+)
+15:58:50 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileEdit.php	User_ProfileEditController	59	array (
+  'name' => '蔡晓华a',
+  'mail' => '',
+  'mail_verified' => 0,
+  'wechat' => '',
+  'weibo' => '',
+  'tengqq' => '',
+  'tel_num' => '',
+  'picture' => '',
+)
+15:58:50 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/dao/user/UserInfo.php	Dao_User_UserInfo	162	array (
+  'name' => '蔡晓华a',
+  'mail' => '',
+  'mail_verified' => 0,
+  'wechat' => '',
+  'weibo' => '',
+  'tengqq' => '',
+  'tel_num' => '',
+  'picture' => '',
+  'yyid' => '9151DD465F1E11E7A1C868F728954D54',
+)
+15:58:50 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ProfileEdit.php	User_ProfileEditController	75	array (
+  'truename' => 'tony蔡b',
+  'address' => '',
+  'employer_company' => '',
+  'expertise' => '',
+  'identitycard' => '',
+  'birthday' => '',
+  'city' => '',
+  'work' => '123',
+  'education' => '',
+)
+15:58:50 INFO	/data/webapp/PROD/app-youyao-core/2017_06_01/classes/dao/user/UserInfo.php	Dao_User_UserInfo	177	array (
+  'truename' => 'tony蔡b',
+  'address' => '',
+  'employer_company' => '',
+  'expertise' => '',
+  'identitycard' => '',
+  'birthday' => '',
+  'city' => '',
+  'work' => '123',
+  'education' => '',
+  'u_yyid' => '9151DD465F1E11E7A1C868F728954D54',
+)

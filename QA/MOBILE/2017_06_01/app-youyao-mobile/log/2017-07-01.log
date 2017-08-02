@@ -1,0 +1,213 @@
+14:51:30 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	44	
+14:52:36 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	44	
+15:00:51 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	43	
+15:02:11 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	43	
+15:06:14 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	43	
+15:09:10 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	30	array (
+)
+15:09:10 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	46	NULL
+15:13:39 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	30	array (
+  '_FILE_' => 
+  array (
+    'name' => 'toYBAFd6-auAZhOpAAJW4qTTR4U030_150_150_1.jpg',
+    'type' => 'application/octet-stream',
+    'tmp_name' => '/tmp/phpo1qBwz',
+    'error' => 0,
+    'size' => 9551,
+  ),
+)
+15:13:39 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	46	array (
+  'url' => '',
+  'msg' => 'Invalid file type uploaded.',
+  'status' => 0,
+  'hashkey' => '',
+)
+15:17:33 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	30	array (
+  '_FILE_' => 
+  array (
+    'name' => 'toYBAFd6-auAZhOpAAJW4qTTR4U030_150_150_1.jpg',
+    'type' => 'application/octet-stream',
+    'tmp_name' => '/tmp/php95kSvV',
+    'error' => 0,
+    'size' => 9551,
+  ),
+)
+15:17:33 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	47	array (
+  'url' => '',
+  'msg' => 'Invalid file type uploaded.',
+  'status' => 0,
+  'hashkey' => '',
+)
+15:18:45 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	30	array (
+  '_FILE_' => 
+  array (
+    'name' => 'toYBAFd6-auAZhOpAAJW4qTTR4U030_150_150_1.jpg',
+    'type' => 'application/octet-stream',
+    'tmp_name' => '/tmp/phpvbNYrp',
+    'error' => 0,
+    'size' => 9551,
+  ),
+)
+15:18:45 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	47	array (
+  'url' => '',
+  'msg' => 'Invalid file type uploaded.',
+  'status' => 0,
+  'hashkey' => '',
+)
+15:21:34 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	30	array (
+  '_FILE_' => 
+  array (
+    'name' => 'toYBAFd6-auAZhOpAAJW4qTTR4U030_150_150_1.jpg',
+    'type' => 'application/octet-stream',
+    'tmp_name' => '/tmp/phpnvqjfD',
+    'error' => 0,
+    'size' => 9551,
+  ),
+)
+15:21:34 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	47	array (
+  'url' => '',
+  'msg' => 'Invalid file type uploaded.',
+  'status' => 0,
+  'hashkey' => '',
+)
+15:23:50 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	30	array (
+)
+15:23:50 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	47	NULL
+15:25:23 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	30	array (
+)
+15:25:23 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	47	NULL
+15:25:46 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	30	array (
+  '_FILE_' => 
+  array (
+    'name' => 'toYBAFd6-auAZhOpAAJW4qTTR4U030_150_150_1.jpg',
+    'type' => 'application/octet-stream',
+    'tmp_name' => '/tmp/phpDkQF97',
+    'error' => 0,
+    'size' => 9551,
+  ),
+)
+15:25:46 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	47	array (
+  'url' => '',
+  'msg' => 'Invalid file type uploaded.',
+  'status' => 0,
+  'hashkey' => '',
+)
+15:28:39 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	30	array (
+  '_FILE_' => 
+  array (
+    'name' => 'toYBAFd6-auAZhOpAAJW4qTTR4U030_150_150_1.jpg',
+    'type' => 'application/octet-stream',
+    'tmp_name' => '/tmp/phpwr0u1S',
+    'error' => 0,
+    'size' => 9551,
+  ),
+)
+15:28:39 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	47	array (
+  'url' => 'http://os05bf8go.bkt.clouddn.com/test123/headpic.jpg',
+  'msg' => 'normal',
+  'status' => 1,
+  'hashkey' => 'test123',
+)
+15:30:18 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	30	array (
+  '_FILE_' => 
+  array (
+    'name' => 'toYBAFd6-auAZhOpAAJW4qTTR4U030_150_150_1.jpg',
+    'type' => 'application/octet-stream',
+    'tmp_name' => '/tmp/phpeHvTOB',
+    'error' => 0,
+    'size' => 9551,
+  ),
+)
+15:30:18 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	47	array (
+  'url' => 'http://ose50t86c.bkt.clouddn.com/abcdefg/headpic.jpg',
+  'msg' => 'normal',
+  'status' => 1,
+  'hashkey' => 'abcdefg',
+)
+15:34:50 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	30	array (
+  '_FILE_' => 
+  array (
+    'name' => 'toYBAFd6-auAZhOpAAJW4qTTR4U030_150_150_1.jpg',
+    'type' => 'application/octet-stream',
+    'tmp_name' => '/tmp/phpJoFgXO',
+    'error' => 0,
+    'size' => 9551,
+  ),
+)
+15:34:50 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	47	array (
+  'url' => 'http://ose50t86c.bkt.clouddn.com/abcdefgk/headpic.jpg',
+  'msg' => 'normal',
+  'status' => 1,
+  'hashkey' => 'abcdefgk',
+)
+16:13:50 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	52	array (
+  'url' => 'http://ose50t86c.bkt.clouddn.com/img_yyid/headpic.jpg',
+  'msg' => 'normal',
+  'status' => 1,
+  'hashkey' => 'img_yyid',
+)
+16:14:33 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	52	NULL
+16:15:22 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	43	6dacedf25e3511e7907768f728954d54
+16:15:22 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	53	array (
+  'url' => 'http://ose50t86c.bkt.clouddn.com/6dacedf25e3511e7907768f728954d54/headpic.jpg',
+  'msg' => 'normal',
+  'status' => 1,
+  'hashkey' => '6dacedf25e3511e7907768f728954d54',
+)
+16:15:46 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	43	7bd8ad545e3511e7907768f728954d54
+16:15:46 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	53	array (
+  'url' => 'http://ose50t86c.bkt.clouddn.com/7bd8ad545e3511e7907768f728954d54/headpic.jpg',
+  'msg' => 'normal',
+  'status' => 1,
+  'hashkey' => '7bd8ad545e3511e7907768f728954d54',
+)
+16:15:53 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	43	80456b985e3511e7907768f728954d54
+16:15:54 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	53	NULL
+16:16:20 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	43	905b88c75e3511e7907768f728954d54
+16:16:20 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	53	array (
+  'url' => 'http://ose50t86c.bkt.clouddn.com/905b88c75e3511e7907768f728954d54/headpic.jpg',
+  'msg' => 'normal',
+  'status' => 1,
+  'hashkey' => '905b88c75e3511e7907768f728954d54',
+)
+16:17:47 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	43	c402440d5e3511e7907768f728954d54
+16:17:47 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	53	array (
+  'url' => 'http://ose50t86c.bkt.clouddn.com/c402440d5e3511e7907768f728954d54/headpic.jpg',
+  'msg' => 'normal',
+  'status' => 1,
+  'hashkey' => 'c402440d5e3511e7907768f728954d54',
+)
+16:17:53 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	43	c79b33285e3511e7907768f728954d54
+16:17:53 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	53	array (
+  'url' => 'http://ose50t86c.bkt.clouddn.com/c79b33285e3511e7907768f728954d54/headpic.jpg',
+  'msg' => 'normal',
+  'status' => 1,
+  'hashkey' => 'c79b33285e3511e7907768f728954d54',
+)
+16:20:08 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	43	182bc6a95e3611e7907768f728954d54
+16:20:08 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	53	array (
+  'url' => 'http://ose50t86c.bkt.clouddn.com/182bc6a95e3611e7907768f728954d54/headpic.jpg',
+  'msg' => 'normal',
+  'status' => 1,
+  'hashkey' => '182bc6a95e3611e7907768f728954d54',
+)
+16:21:34 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	43	4ba231595e3611e7907768f728954d54
+16:21:35 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	53	NULL
+16:21:38 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	43	4d74f5b65e3611e7907768f728954d54
+16:21:39 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	53	NULL
+16:21:52 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	43	55cf06e65e3611e7907768f728954d54
+16:21:52 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	53	array (
+  'url' => 'http://ose50t86c.bkt.clouddn.com/55cf06e65e3611e7907768f728954d54/headpic.jpg',
+  'msg' => 'normal',
+  'status' => 1,
+  'hashkey' => '55cf06e65e3611e7907768f728954d54',
+)
+16:23:00 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	43	7e7e111c5e3611e7907768f728954d54
+16:23:00 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	53	array (
+  'url' => 'http://ose50t86c.bkt.clouddn.com/7e7e111c5e3611e7907768f728954d54/headpic.jpg',
+  'msg' => 'normal',
+  'status' => 1,
+  'hashkey' => '7e7e111c5e3611e7907768f728954d54',
+)
+16:26:34 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	43	fdf01d675e3611e7907768f728954d54
+16:26:34 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/wechat/Uploadsingleformfile.php	Wechat_UploadsingleformfileController	53	NULL

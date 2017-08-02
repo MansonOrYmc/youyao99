@@ -1,0 +1,2874 @@
+06:35:26 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+06:35:26 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+06:35:39 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+06:35:39 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+06:35:42 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => '-cZrcjjeLrLu3UE6gA0tOs5xO7SUUiGzRz7VSMqrswA',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+06:35:42 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , -cZrcjjeLrLu3UE6gA0tOs5xO7SUUiGzRz7VSMqrswA
+06:36:06 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	92	array (
+  'numFound' => 185,
+  'start' => 0,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => 'A63D6BAF6B7B11E7A54A5254009FF7CE',
+      'name' => '上海医院',
+      'grade' => ' ',
+      'address' => '上海徐汇 161',
+    ),
+    1 => 
+    array (
+      'yyid' => 'A63E3D266B7B11E7A54A5254009FF7CE',
+      'name' => '上海医院',
+      'grade' => ' ',
+      'address' => '上海徐汇 161',
+    ),
+    2 => 
+    array (
+      'yyid' => 'D7A2AA78534411E79E6C68F728954D54',
+      'name' => '上海中医院',
+      'grade' => '三级甲等',
+      'address' => '芷江路门诊:上海市芷江中路274号;石门路门诊:上海市石门一路67弄1号',
+    ),
+    3 => 
+    array (
+      'yyid' => '331A19E26D5311E7A54A5254009FF7CE',
+      'name' => '上海测试医院',
+      'grade' => '三级乙等',
+      'address' => '上海浦东新 峨山',
+    ),
+    4 => 
+    array (
+      'yyid' => '5EF54429534411E79E6C68F728954D54',
+      'name' => '上海胸科医院',
+      'grade' => '三级甲等',
+      'address' => '上海市淮海西路241号',
+    ),
+    5 => 
+    array (
+      'yyid' => 'BCB8891A534411E79E6C68F728954D54',
+      'name' => '上海市北站医院',
+      'grade' => '二级',
+      'address' => '上海闸北区南星路29号',
+    ),
+    6 => 
+    array (
+      'yyid' => '0B7DFF07534411E79E6C68F728954D54',
+      'name' => '上海市口腔医院',
+      'grade' => '三级',
+      'address' => '上海市北京东路356号(总院);上海市复兴中路1258号(分院);上海市永嘉路458号(永嘉路门诊部)',
+    ),
+    7 => 
+    array (
+      'yyid' => 'DFCFC00E534411E79E6C68F728954D54',
+      'name' => '上海市东方医院',
+      'grade' => '三级甲等',
+      'address' => '本部:上海市浦东新区即墨路150号;南院:上海市浦东新区云台路1800号',
+    ),
+    8 => 
+    array (
+      'yyid' => '1EDA4243534411E79E6C68F728954D54',
+      'name' => '上海长海医院',
+      'grade' => '三级甲等',
+      'address' => '上海市杨浦区长海路168号',
+    ),
+    9 => 
+    array (
+      'yyid' => 'D590E480534311E79E6C68F728954D54',
+      'name' => '上海计生所医院',
+      'grade' => '二级',
+      'address' => '上海市徐汇区斜土路2120号',
+    ),
+  ),
+)
+06:56:14 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+06:56:14 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+06:56:20 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+06:56:20 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c
+06:56:29 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	92	array (
+  'numFound' => 185,
+  'start' => 0,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => 'A63D6BAF6B7B11E7A54A5254009FF7CE',
+      'name' => '上海医院',
+      'grade' => ' ',
+      'address' => '上海徐汇 161',
+    ),
+    1 => 
+    array (
+      'yyid' => 'A63E3D266B7B11E7A54A5254009FF7CE',
+      'name' => '上海医院',
+      'grade' => ' ',
+      'address' => '上海徐汇 161',
+    ),
+    2 => 
+    array (
+      'yyid' => 'D7A2AA78534411E79E6C68F728954D54',
+      'name' => '上海中医院',
+      'grade' => '三级甲等',
+      'address' => '芷江路门诊:上海市芷江中路274号;石门路门诊:上海市石门一路67弄1号',
+    ),
+    3 => 
+    array (
+      'yyid' => '331A19E26D5311E7A54A5254009FF7CE',
+      'name' => '上海测试医院',
+      'grade' => '三级乙等',
+      'address' => '上海浦东新 峨山',
+    ),
+    4 => 
+    array (
+      'yyid' => '5EF54429534411E79E6C68F728954D54',
+      'name' => '上海胸科医院',
+      'grade' => '三级甲等',
+      'address' => '上海市淮海西路241号',
+    ),
+    5 => 
+    array (
+      'yyid' => 'BCB8891A534411E79E6C68F728954D54',
+      'name' => '上海市北站医院',
+      'grade' => '二级',
+      'address' => '上海闸北区南星路29号',
+    ),
+    6 => 
+    array (
+      'yyid' => '0B7DFF07534411E79E6C68F728954D54',
+      'name' => '上海市口腔医院',
+      'grade' => '三级',
+      'address' => '上海市北京东路356号(总院);上海市复兴中路1258号(分院);上海市永嘉路458号(永嘉路门诊部)',
+    ),
+    7 => 
+    array (
+      'yyid' => 'DFCFC00E534411E79E6C68F728954D54',
+      'name' => '上海市东方医院',
+      'grade' => '三级甲等',
+      'address' => '本部:上海市浦东新区即墨路150号;南院:上海市浦东新区云台路1800号',
+    ),
+    8 => 
+    array (
+      'yyid' => '1EDA4243534411E79E6C68F728954D54',
+      'name' => '上海长海医院',
+      'grade' => '三级甲等',
+      'address' => '上海市杨浦区长海路168号',
+    ),
+    9 => 
+    array (
+      'yyid' => 'D590E480534311E79E6C68F728954D54',
+      'name' => '上海计生所医院',
+      'grade' => '二级',
+      'address' => '上海市徐汇区斜土路2120号',
+    ),
+  ),
+)
+06:57:08 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+06:57:08 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c
+06:57:12 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c
+06:57:12 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Profile.php	User_ProfileController	51	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'base_info' => 
+    array (
+      'uid' => '8',
+      'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+      'name' => 'Jun',
+      'pass' => '',
+      'mail' => '',
+      'mail_verified' => '0',
+      'mobile_num' => '13801786869',
+      'mobile_verified' => '1',
+      'wechat' => '',
+      'weibo' => '',
+      'tengqq' => '',
+      'tel_num' => '',
+      'access' => '1500278708',
+      'login' => '1500278708',
+      'picture' => '0',
+      'v_status' => '1',
+      'v_date' => '1500278708',
+      'client_ip' => '124.74.10.30',
+      'last_client_ip' => '124.74.10.30',
+      'created' => '1500278708',
+      'update_date' => '2017-07-17 16:05:33',
+    ),
+    'agent_info' => 
+    array (
+      'aid' => '4',
+      'yyid' => 'B57153B16AC611E7A54A5254009FF7CE',
+      'u_yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+      'truename' => '',
+      'address' => '',
+      'employer_company' => '',
+      'expertise' => '',
+      'identitycard' => '',
+      'points' => '0',
+      'birthday' => '',
+      'city' => '0',
+      'work' => '0',
+      'education' => '0',
+      'status' => '1',
+      'created' => '1500278733',
+      'update_date' => '2017-07-17 16:05:33',
+    ),
+  ),
+  'userMsg' => 'normal request',
+  'msg' => 'normal request',
+)
+06:57:20 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+06:57:20 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c
+06:57:23 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+06:57:23 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c
+06:57:36 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+06:57:36 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c
+06:57:39 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+06:57:39 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c
+08:22:17 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+08:22:17 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+08:22:24 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+08:22:24 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c
+08:24:38 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+08:24:38 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+08:24:50 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+08:24:50 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c
+08:24:55 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+08:24:55 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c
+08:25:14 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+08:25:14 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+08:25:58 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+08:25:58 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+08:26:08 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+08:26:08 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c
+08:26:15 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	92	array (
+  'numFound' => 185,
+  'start' => 0,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => 'A63D6BAF6B7B11E7A54A5254009FF7CE',
+      'name' => '上海医院',
+      'grade' => ' ',
+      'address' => '上海徐汇 161',
+    ),
+    1 => 
+    array (
+      'yyid' => 'A63E3D266B7B11E7A54A5254009FF7CE',
+      'name' => '上海医院',
+      'grade' => ' ',
+      'address' => '上海徐汇 161',
+    ),
+    2 => 
+    array (
+      'yyid' => 'D7A2AA78534411E79E6C68F728954D54',
+      'name' => '上海中医院',
+      'grade' => '三级甲等',
+      'address' => '芷江路门诊:上海市芷江中路274号;石门路门诊:上海市石门一路67弄1号',
+    ),
+    3 => 
+    array (
+      'yyid' => '331A19E26D5311E7A54A5254009FF7CE',
+      'name' => '上海测试医院',
+      'grade' => '三级乙等',
+      'address' => '上海浦东新 峨山',
+    ),
+    4 => 
+    array (
+      'yyid' => '5EF54429534411E79E6C68F728954D54',
+      'name' => '上海胸科医院',
+      'grade' => '三级甲等',
+      'address' => '上海市淮海西路241号',
+    ),
+    5 => 
+    array (
+      'yyid' => 'BCB8891A534411E79E6C68F728954D54',
+      'name' => '上海市北站医院',
+      'grade' => '二级',
+      'address' => '上海闸北区南星路29号',
+    ),
+    6 => 
+    array (
+      'yyid' => '0B7DFF07534411E79E6C68F728954D54',
+      'name' => '上海市口腔医院',
+      'grade' => '三级',
+      'address' => '上海市北京东路356号(总院);上海市复兴中路1258号(分院);上海市永嘉路458号(永嘉路门诊部)',
+    ),
+    7 => 
+    array (
+      'yyid' => 'DFCFC00E534411E79E6C68F728954D54',
+      'name' => '上海市东方医院',
+      'grade' => '三级甲等',
+      'address' => '本部:上海市浦东新区即墨路150号;南院:上海市浦东新区云台路1800号',
+    ),
+    8 => 
+    array (
+      'yyid' => '1EDA4243534411E79E6C68F728954D54',
+      'name' => '上海长海医院',
+      'grade' => '三级甲等',
+      'address' => '上海市杨浦区长海路168号',
+    ),
+    9 => 
+    array (
+      'yyid' => 'D590E480534311E79E6C68F728954D54',
+      'name' => '上海计生所医院',
+      'grade' => '二级',
+      'address' => '上海市徐汇区斜土路2120号',
+    ),
+  ),
+)
+08:26:18 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	92	array (
+  'numFound' => 70,
+  'start' => 10,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => 'DD9257A4534311E79E6C68F728954D54',
+      'name' => '杭州江干区人民医院',
+      'grade' => '二级',
+      'address' => '杭州海潮路90号',
+    ),
+    1 => 
+    array (
+      'yyid' => 'A927A28C534311E79E6C68F728954D54',
+      'name' => '杭州市第一人民医院',
+      'grade' => '三级甲等',
+      'address' => '总院:杭州市浣纱路261号',
+    ),
+    2 => 
+    array (
+      'yyid' => 'AB293053534311E79E6C68F728954D54',
+      'name' => '杭州市第七人民医院',
+      'grade' => '三级甲等',
+      'address' => '杭州市天目山路305号',
+    ),
+    3 => 
+    array (
+      'yyid' => 'D998321E534311E79E6C68F728954D54',
+      'name' => '杭州师范大学附属医院',
+      'grade' => '三级甲等',
+      'address' => '杭州市温州路126号',
+    ),
+    4 => 
+    array (
+      'yyid' => 'DB7ED520534311E79E6C68F728954D54',
+      'name' => '杭州市老年病医院',
+      'grade' => '一级',
+      'address' => '杭州市沈半路469号',
+    ),
+    5 => 
+    array (
+      'yyid' => '147AD2A9534511E79E6C68F728954D54',
+      'name' => '杭州市第三人民医院',
+      'grade' => '三级',
+      'address' => '杭州市西湖大道38号',
+    ),
+    6 => 
+    array (
+      'yyid' => 'ADB7C23E534411E79E6C68F728954D54',
+      'name' => '杭州市妇幼保健院',
+      'grade' => '三级甲等',
+      'address' => '杭州市上城区鲲鹏路369号',
+    ),
+    7 => 
+    array (
+      'yyid' => '2201AACB534511E79E6C68F728954D54',
+      'name' => '杭州钢铁职工医院 ',
+      'grade' => '二级',
+      'address' => '杭州市拱墅区半山康健路1号',
+    ),
+    8 => 
+    array (
+      'yyid' => '5B0E0BDE534411E79E6C68F728954D54',
+      'name' => '温医大眼视光医院杭州院区',
+      'grade' => '三级甲等',
+      'address' => '浙江省杭州市凤起东路618号',
+    ),
+    9 => 
+    array (
+      'yyid' => '63ACFA3B534411E79E6C68F728954D54',
+      'name' => '杭州市萧山区皮肤病医院',
+      'grade' => '二级',
+      'address' => '杭州市萧山区城厢街道乐园路58号（城区K659路公交车直达）',
+    ),
+  ),
+)
+08:26:29 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+08:26:29 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+08:26:30 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+08:26:30 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c
+08:26:36 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	92	array (
+  'numFound' => 70,
+  'start' => 0,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => '3E55E608534411E79E6C68F728954D54',
+      'name' => '杭州整形医院',
+      'grade' => '三级',
+      'address' => '杭州市上塘路168号',
+    ),
+    1 => 
+    array (
+      'yyid' => 'BD44C066534411E79E6C68F728954D54',
+      'name' => '杭州市中医院',
+      'grade' => '三级甲等',
+      'address' => '杭州市体育场路453号',
+    ),
+    2 => 
+    array (
+      'yyid' => 'B401ECD4534311E79E6C68F728954D54',
+      'name' => '杭州复旦医院',
+      'grade' => '',
+      'address' => '杭州市下城区环城北路10号',
+    ),
+    3 => 
+    array (
+      'yyid' => 'C532EB9A534311E79E6C68F728954D54',
+      'name' => '杭州武警医院',
+      'grade' => '三级',
+      'address' => '杭州市滨江区江南大道(钱江三桥南岸)',
+    ),
+    4 => 
+    array (
+      'yyid' => '1BAC3189534411E79E6C68F728954D54',
+      'name' => '杭州口腔医院',
+      'grade' => '二级甲等',
+      'address' => '浙江省杭州市平海路1号',
+    ),
+    5 => 
+    array (
+      'yyid' => 'A3DA0675534411E79E6C68F728954D54',
+      'name' => '树兰（杭州）医院',
+      'grade' => '三级',
+      'address' => '浙江省杭州市下城区东新路848号',
+    ),
+    6 => 
+    array (
+      'yyid' => 'ACA8C663534411E79E6C68F728954D54',
+      'name' => '杭州市肿瘤医院',
+      'grade' => '三级',
+      'address' => '杭州市上城区中山南路严官巷34号',
+    ),
+    7 => 
+    array (
+      'yyid' => '045DB12C534511E79E6C68F728954D54',
+      'name' => '杭州美中宜和',
+      'grade' => '',
+      'address' => '浙江省杭州市西湖区古墩路67号',
+    ),
+    8 => 
+    array (
+      'yyid' => '1741AC18534511E79E6C68F728954D54',
+      'name' => '杭州市儿童医院',
+      'grade' => '三级甲等',
+      'address' => '杭州市下城区文晖路195号(近上塘高架)',
+    ),
+    9 => 
+    array (
+      'yyid' => '35388090534511E79E6C68F728954D54',
+      'name' => '杭州市西溪医院',
+      'grade' => '三级甲等',
+      'address' => '杭州市西湖区留下横埠街2号',
+    ),
+  ),
+)
+08:26:39 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	92	array (
+  'numFound' => 70,
+  'start' => 10,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => 'DD9257A4534311E79E6C68F728954D54',
+      'name' => '杭州江干区人民医院',
+      'grade' => '二级',
+      'address' => '杭州海潮路90号',
+    ),
+    1 => 
+    array (
+      'yyid' => 'A927A28C534311E79E6C68F728954D54',
+      'name' => '杭州市第一人民医院',
+      'grade' => '三级甲等',
+      'address' => '总院:杭州市浣纱路261号',
+    ),
+    2 => 
+    array (
+      'yyid' => 'AB293053534311E79E6C68F728954D54',
+      'name' => '杭州市第七人民医院',
+      'grade' => '三级甲等',
+      'address' => '杭州市天目山路305号',
+    ),
+    3 => 
+    array (
+      'yyid' => 'D998321E534311E79E6C68F728954D54',
+      'name' => '杭州师范大学附属医院',
+      'grade' => '三级甲等',
+      'address' => '杭州市温州路126号',
+    ),
+    4 => 
+    array (
+      'yyid' => 'DB7ED520534311E79E6C68F728954D54',
+      'name' => '杭州市老年病医院',
+      'grade' => '一级',
+      'address' => '杭州市沈半路469号',
+    ),
+    5 => 
+    array (
+      'yyid' => '147AD2A9534511E79E6C68F728954D54',
+      'name' => '杭州市第三人民医院',
+      'grade' => '三级',
+      'address' => '杭州市西湖大道38号',
+    ),
+    6 => 
+    array (
+      'yyid' => 'ADB7C23E534411E79E6C68F728954D54',
+      'name' => '杭州市妇幼保健院',
+      'grade' => '三级甲等',
+      'address' => '杭州市上城区鲲鹏路369号',
+    ),
+    7 => 
+    array (
+      'yyid' => '2201AACB534511E79E6C68F728954D54',
+      'name' => '杭州钢铁职工医院 ',
+      'grade' => '二级',
+      'address' => '杭州市拱墅区半山康健路1号',
+    ),
+    8 => 
+    array (
+      'yyid' => '5B0E0BDE534411E79E6C68F728954D54',
+      'name' => '温医大眼视光医院杭州院区',
+      'grade' => '三级甲等',
+      'address' => '浙江省杭州市凤起东路618号',
+    ),
+    9 => 
+    array (
+      'yyid' => '63ACFA3B534411E79E6C68F728954D54',
+      'name' => '杭州市萧山区皮肤病医院',
+      'grade' => '二级',
+      'address' => '杭州市萧山区城厢街道乐园路58号（城区K659路公交车直达）',
+    ),
+  ),
+)
+08:26:41 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	92	array (
+  'numFound' => 70,
+  'start' => 20,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => 'AF73739C534411E79E6C68F728954D54',
+      'name' => '杭州市富阳区第三人民医院',
+      'grade' => '二级',
+      'address' => '',
+    ),
+    1 => 
+    array (
+      'yyid' => '7DC0DB02534411E79E6C68F728954D54',
+      'name' => '杭州市余杭区仓前街道社区卫生服务中心',
+      'grade' => '一级',
+      'address' => '仓前街道仓兴街300号',
+    ),
+    2 => 
+    array (
+      'yyid' => 'C0F8F70D534311E79E6C68F728954D54',
+      'name' => '西湖区留下街道社区卫生服务中心',
+      'grade' => '一级',
+      'address' => '杭州市西湖区留下街道',
+    ),
+    3 => 
+    array (
+      'yyid' => 'F6C5C81E534311E79E6C68F728954D54',
+      'name' => '浙江省中西医结合医院',
+      'grade' => '三级甲等',
+      'address' => '杭州市环城东路208号',
+    ),
+    4 => 
+    array (
+      'yyid' => '28D11550534411E79E6C68F728954D54',
+      'name' => '下城区中医院',
+      'grade' => '二级',
+      'address' => '杭州绍兴支路25号',
+    ),
+    5 => 
+    array (
+      'yyid' => '4856A6ED534411E79E6C68F728954D54',
+      'name' => '浙江省新华医院（浙江中医药大学附属第二医院）',
+      'grade' => '三级甲等',
+      'address' => '杭州市潮王路318号',
+    ),
+    6 => 
+    array (
+      'yyid' => '7E046331534411E79E6C68F728954D54',
+      'name' => '浙江中医药大学附属江南医院',
+      'grade' => '三级',
+      'address' => '杭州萧山区育才路152号',
+    ),
+    7 => 
+    array (
+      'yyid' => '99DDCEE9534411E79E6C68F728954D54',
+      'name' => '笕桥医院',
+      'grade' => '二级',
+      'address' => '杭州市机场路389号',
+    ),
+    8 => 
+    array (
+      'yyid' => '69F87B55534411E79E6C68F728954D54',
+      'name' => '浙江医院',
+      'grade' => '三级甲等',
+      'address' => '杭州市灵隐路12号(总院);杭州市三墩街241号(分院)',
+    ),
+    9 => 
+    array (
+      'yyid' => '904DBB19534411E79E6C68F728954D54',
+      'name' => '浙江省中山医院',
+      'grade' => '三级甲等',
+      'address' => '杭州市庆春路23号(庆春路院区);杭州市莫干山路219号(莫干山路院区)',
+    ),
+  ),
+)
+08:26:43 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	92	array (
+  'numFound' => 70,
+  'start' => 30,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => 'FDF309FD534311E79E6C68F728954D54',
+      'name' => '余杭区良渚医院',
+      'grade' => '',
+      'address' => '杭州市余杭区莫干山路1657号',
+    ),
+    1 => 
+    array (
+      'yyid' => '3293452A534411E79E6C68F728954D54',
+      'name' => '余杭中医院',
+      'grade' => '三级',
+      'address' => '杭州市余杭区塘栖镇致和堂街100号',
+    ),
+    2 => 
+    array (
+      'yyid' => '5C0893CB534411E79E6C68F728954D54',
+      'name' => '余杭区妇幼保健院',
+      'grade' => '三级',
+      'address' => '杭州市余杭区人民大道359号',
+    ),
+    3 => 
+    array (
+      'yyid' => 'D2C3AF2D534411E79E6C68F728954D54',
+      'name' => '余杭区第二人民医院',
+      'grade' => '二级甲等',
+      'address' => '杭州市余杭镇安乐路80号',
+    ),
+    4 => 
+    array (
+      'yyid' => '03B61D31534511E79E6C68F728954D54',
+      'name' => '余杭区第五人民医院',
+      'grade' => '二级',
+      'address' => '杭州市余杭区临平街道保健路60号',
+    ),
+    5 => 
+    array (
+      'yyid' => '303FEFE1534511E79E6C68F728954D54',
+      'name' => '余杭第一人民医院',
+      'grade' => '三级',
+      'address' => '杭州市余杭区临平迎宾路369号',
+    ),
+    6 => 
+    array (
+      'yyid' => 'ABA062B2534311E79E6C68F728954D54',
+      'name' => '建德市乾潭镇中心卫生院',
+      'grade' => '一级',
+      'address' => '浙江省杭州市建德市乾潭镇子路69号',
+    ),
+    7 => 
+    array (
+      'yyid' => 'C9A3F6C1534311E79E6C68F728954D54',
+      'name' => '下城区中西医结合医院',
+      'grade' => '二级',
+      'address' => '浙江省杭州市东新路沈家路6号',
+    ),
+    8 => 
+    array (
+      'yyid' => 'CD1469B1534311E79E6C68F728954D54',
+      'name' => '浙江省肿瘤医院',
+      'grade' => '三级甲等',
+      'address' => '杭州市半山桥广济路38号',
+    ),
+    9 => 
+    array (
+      'yyid' => 'D5DE5143534311E79E6C68F728954D54',
+      'name' => '临安市人民医院',
+      'grade' => '三级',
+      'address' => '浙江省杭州市临安市衣锦街548号',
+    ),
+  ),
+)
+08:26:45 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	92	array (
+  'numFound' => 70,
+  'start' => 40,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => 'E6F24E6B534311E79E6C68F728954D54',
+      'name' => '浙医一院',
+      'grade' => '三级甲等',
+      'address' => '浙江省杭州市庆春路79号',
+    ),
+    1 => 
+    array (
+      'yyid' => '2B4E9F2B534411E79E6C68F728954D54',
+      'name' => '萧山第六人民医院',
+      'grade' => '二级甲等',
+      'address' => '杭州市萧山区锦绣路79号',
+    ),
+    2 => 
+    array (
+      'yyid' => '3C353F91534411E79E6C68F728954D54',
+      'name' => '富阳人民医院',
+      'grade' => '三级',
+      'address' => '杭州市富阳市金桥北路400号',
+    ),
+    3 => 
+    array (
+      'yyid' => '43614674534411E79E6C68F728954D54',
+      'name' => '117医院',
+      'grade' => '三级甲等',
+      'address' => '浙江省杭州市西湖区灵隐路14号',
+    ),
+    4 => 
+    array (
+      'yyid' => '6337104B534411E79E6C68F728954D54',
+      'name' => '仁育医院',
+      'grade' => '二级',
+      'address' => '浙江省杭州市上城区中山南路223号',
+    ),
+    5 => 
+    array (
+      'yyid' => 'BC1ACD03534411E79E6C68F728954D54',
+      'name' => '青春医院',
+      'grade' => '二级甲等',
+      'address' => '杭州市江干区庆春东路54号',
+    ),
+    6 => 
+    array (
+      'yyid' => 'BFD23AB6534411E79E6C68F728954D54',
+      'name' => '杭钢医院',
+      'grade' => '二级甲等',
+      'address' => '杭州市拱墅区半山路康健路1号',
+    ),
+    7 => 
+    array (
+      'yyid' => 'C7CD0BBB534411E79E6C68F728954D54',
+      'name' => '萧山第四人民医院',
+      'grade' => '二级甲等',
+      'address' => '杭州市萧山区义蓬镇义盛路284号',
+    ),
+    8 => 
+    array (
+      'yyid' => 'CC737BD7534411E79E6C68F728954D54',
+      'name' => '萧山第三人民医院',
+      'grade' => '二级甲等',
+      'address' => '杭州市萧山临浦镇峙山北路',
+    ),
+    9 => 
+    array (
+      'yyid' => 'CF42FE86534411E79E6C68F728954D54',
+      'name' => '转塘街道社区卫生服务中心',
+      'grade' => '二级',
+      'address' => '杭州西湖区转塘街道庙山东6号',
+    ),
+  ),
+)
+08:27:21 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+08:27:21 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c
+08:59:15 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+08:59:15 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+09:19:58 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+09:19:58 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+09:57:13 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+09:57:13 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+09:57:24 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+09:57:24 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c
+09:57:24 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/dao/user/UserInfo.php	Dao_User_UserInfo	277	array (
+  'uid' => '8',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+  'sid' => 'sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c',
+  'client_ip' => '101.90.254.255',
+  'status' => '1',
+  'created' => '1500515657',
+  'login_from' => 'wechat',
+)
+09:57:34 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	92	array (
+  'numFound' => 185,
+  'start' => 0,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => 'A63D6BAF6B7B11E7A54A5254009FF7CE',
+      'name' => '上海医院',
+      'grade' => ' ',
+      'address' => '上海徐汇 161',
+    ),
+    1 => 
+    array (
+      'yyid' => 'A63E3D266B7B11E7A54A5254009FF7CE',
+      'name' => '上海医院',
+      'grade' => ' ',
+      'address' => '上海徐汇 161',
+    ),
+    2 => 
+    array (
+      'yyid' => 'D7A2AA78534411E79E6C68F728954D54',
+      'name' => '上海中医院',
+      'grade' => '三级甲等',
+      'address' => '芷江路门诊:上海市芷江中路274号;石门路门诊:上海市石门一路67弄1号',
+    ),
+    3 => 
+    array (
+      'yyid' => '331A19E26D5311E7A54A5254009FF7CE',
+      'name' => '上海测试医院',
+      'grade' => '三级乙等',
+      'address' => '上海浦东新 峨山',
+    ),
+    4 => 
+    array (
+      'yyid' => '5EF54429534411E79E6C68F728954D54',
+      'name' => '上海胸科医院',
+      'grade' => '三级甲等',
+      'address' => '上海市淮海西路241号',
+    ),
+    5 => 
+    array (
+      'yyid' => 'BCB8891A534411E79E6C68F728954D54',
+      'name' => '上海市北站医院',
+      'grade' => '二级',
+      'address' => '上海闸北区南星路29号',
+    ),
+    6 => 
+    array (
+      'yyid' => '0B7DFF07534411E79E6C68F728954D54',
+      'name' => '上海市口腔医院',
+      'grade' => '三级',
+      'address' => '上海市北京东路356号(总院);上海市复兴中路1258号(分院);上海市永嘉路458号(永嘉路门诊部)',
+    ),
+    7 => 
+    array (
+      'yyid' => 'DFCFC00E534411E79E6C68F728954D54',
+      'name' => '上海市东方医院',
+      'grade' => '三级甲等',
+      'address' => '本部:上海市浦东新区即墨路150号;南院:上海市浦东新区云台路1800号',
+    ),
+    8 => 
+    array (
+      'yyid' => '1EDA4243534411E79E6C68F728954D54',
+      'name' => '上海长海医院',
+      'grade' => '三级甲等',
+      'address' => '上海市杨浦区长海路168号',
+    ),
+    9 => 
+    array (
+      'yyid' => 'D590E480534311E79E6C68F728954D54',
+      'name' => '上海计生所医院',
+      'grade' => '二级',
+      'address' => '上海市徐汇区斜土路2120号',
+    ),
+  ),
+)
+09:57:38 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	92	array (
+  'numFound' => 0,
+  'start' => 10,
+  'docs' => 
+  array (
+  ),
+)
+09:57:41 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	92	array (
+  'numFound' => 185,
+  'start' => 10,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => 'DBE5BBF5534311E79E6C68F728954D54',
+      'name' => '上海德济医院',
+      'grade' => '',
+      'address' => '上海市普陀区古浪路378号',
+    ),
+    1 => 
+    array (
+      'yyid' => 'E9F74C29534311E79E6C68F728954D54',
+      'name' => '上海市肿瘤医院',
+      'grade' => '三级甲等',
+      'address' => '上海市徐汇区东安路270号',
+    ),
+    2 => 
+    array (
+      'yyid' => '02E0ABA0534411E79E6C68F728954D54',
+      'name' => '上海市江湾医院',
+      'grade' => '二级',
+      'address' => '上海市虹口区场中路22号',
+    ),
+    3 => 
+    array (
+      'yyid' => '50954D8F534411E79E6C68F728954D54',
+      'name' => '上海和睦家医院',
+      'grade' => '',
+      'address' => '上海市长宁区仙霞路1139号',
+    ),
+    4 => 
+    array (
+      'yyid' => '549682E1534411E79E6C68F728954D54',
+      'name' => '上海长航医院',
+      'grade' => '二级',
+      'address' => '上海市浦东新区崂山路523号',
+    ),
+    5 => 
+    array (
+      'yyid' => '5E8E5554534411E79E6C68F728954D54',
+      'name' => '上海德达医院',
+      'grade' => '',
+      'address' => '上海市青浦区徐乐路109号',
+    ),
+    6 => 
+    array (
+      'yyid' => '61189834534411E79E6C68F728954D54',
+      'name' => '上海市浦东医院',
+      'grade' => '二级甲等',
+      'address' => '上海市浦东新区惠南镇拱为路2800号',
+    ),
+    7 => 
+    array (
+      'yyid' => '99F39D2A534411E79E6C68F728954D54',
+      'name' => '上海金山医院',
+      'grade' => '三级',
+      'address' => '上海市金山区龙航路1508号',
+    ),
+    8 => 
+    array (
+      'yyid' => 'ABED21EB534411E79E6C68F728954D54',
+      'name' => '上海市同仁医院',
+      'grade' => '二级甲等',
+      'address' => '上海市长宁区仙霞路1111号',
+    ),
+    9 => 
+    array (
+      'yyid' => 'D78AA209534411E79E6C68F728954D54',
+      'name' => '上海市肺科医院',
+      'grade' => '三级甲等',
+      'address' => '上海市杨浦区政民路507号',
+    ),
+  ),
+)
+09:57:59 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeScope.php	User_ServeScopeController	22	array (
+  'action:' => 'replace',
+  'd_yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'h_yyid' => '549682E1534411E79E6C68F728954D54',
+  'os' => 'wechat',
+  'status' => '1',
+  'u_yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+  'user_token' => 'sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+09:57:59 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , sS4tj3McQ6jdsBaJ7DXGwGCQYagm3zVYKq47jBzVH5c
+09:57:59 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/dao/user/UserInfo.php	Dao_User_UserInfo	197	sql: insert into `t_serve_scope` (`id`, `yyid`, `u_yyid`, `d_yyid`, `h_yyid`, `status`, `datei`, `created`, `update_date`) values(0, replace(upper(uuid()),'-',''), :u_yyid, :d_yyid, :h_yyid, :status, :datei, :created, now());
+09:57:59 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/dao/user/UserInfo.php	Dao_User_UserInfo	198	array (
+  'u_yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+  'd_yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'h_yyid' => '549682E1534411E79E6C68F728954D54',
+  'status' => '1',
+  'datei' => '2017-07-21',
+  'created' => 1500602279,
+)
+09:58:50 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+09:58:50 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+10:53:39 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+10:53:39 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+13:08:07 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Captcha.php	User_CaptchaController	32	str: uapzc
+13:08:07 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Captcha.php	User_CaptchaController	33	array (
+  'captval' => '1500613687,fcc322f8657ba52857e1b4ed08a5077d',
+)
+13:08:31 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:08:31 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+13:25:28 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:25:28 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+13:25:44 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	2716EF976D5C11E7A54A5254009FF7CE
+13:25:44 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '2716EF976D5C11E7A54A5254009FF7CE',
+  'u_yyid' => 'C3B12B535FE211E7A54A5254009FF7CE',
+  'name' => '护固莱士 - add',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。',
+  'ingredients' => '主要组成成份：',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => '常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '[{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443}]',
+  'v_info' => '[{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443}]',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-20 23:00:21',
+  'update_date' => '2017-07-20 23:00:21',
+)
+13:25:47 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	2716EF976D5C11E7A54A5254009FF7CE
+13:25:47 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '2716EF976D5C11E7A54A5254009FF7CE',
+  'u_yyid' => 'C3B12B535FE211E7A54A5254009FF7CE',
+  'name' => '护固莱士 - add',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。',
+  'ingredients' => '主要组成成份：',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => '常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '[{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443}]',
+  'v_info' => '[{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443}]',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-20 23:00:21',
+  'update_date' => '2017-07-20 23:00:21',
+)
+13:25:56 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	2716EF976D5C11E7A54A5254009FF7CE
+13:25:56 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '2716EF976D5C11E7A54A5254009FF7CE',
+  'u_yyid' => 'C3B12B535FE211E7A54A5254009FF7CE',
+  'name' => '护固莱士 - add',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。',
+  'ingredients' => '主要组成成份：',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => '常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '[{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443}]',
+  'v_info' => '[{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443}]',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-20 23:00:21',
+  'update_date' => '2017-07-20 23:00:21',
+)
+13:25:59 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	2716EF976D5C11E7A54A5254009FF7CE
+13:25:59 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '2716EF976D5C11E7A54A5254009FF7CE',
+  'u_yyid' => 'C3B12B535FE211E7A54A5254009FF7CE',
+  'name' => '护固莱士 - add',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。',
+  'ingredients' => '主要组成成份：',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => '常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '[{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443}]',
+  'v_info' => '[{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443},{"title":"\\u65b0\\u836f\\u6269\\u5c55\\u6587\\u7ae0\\u6807\\u9898","link":"http:\\/\\/www.youyao99.com\\/t.html","image":"https:\\/\\/ss0.bdstatic.com\\/5aV1bjqh_Q23odCf\\/static\\/superman\\/img\\/logo\\/bd_logo1_31bdc765.png","desc":"\\u4e00\\u6bb5\\u4ecb\\u7ecd\\u6587\\u5b57\\uff0c200\\u5b57\\u4ee5\\u5185\\u3002","update_time":1500562443}]',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-20 23:00:21',
+  'update_date' => '2017-07-20 23:00:21',
+)
+13:26:03 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:26:03 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+13:26:06 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:26:06 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+13:26:26 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:26:26 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+13:27:15 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => '3eZ0U2nIHDu7XKThOaLKKyL5A-gXpqxRI7iBGBRppZM',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:27:15 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , 3eZ0U2nIHDu7XKThOaLKKyL5A-gXpqxRI7iBGBRppZM
+13:27:16 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => '3eZ0U2nIHDu7XKThOaLKKyL5A-gXpqxRI7iBGBRppZM',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:27:16 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , 3eZ0U2nIHDu7XKThOaLKKyL5A-gXpqxRI7iBGBRppZM
+13:27:20 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => '3eZ0U2nIHDu7XKThOaLKKyL5A-gXpqxRI7iBGBRppZM',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:27:20 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , 3eZ0U2nIHDu7XKThOaLKKyL5A-gXpqxRI7iBGBRppZM
+13:27:30 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:27:30 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+13:27:31 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:27:31 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+13:27:40 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:27:40 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+13:27:57 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '2',
+  'user_token' => 'X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:27:57 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+13:28:02 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:28:02 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+13:28:05 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+13:28:05 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Profile.php	User_ProfileController	51	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'base_info' => 
+    array (
+      'uid' => '2',
+      'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+      'name' => 'MBP5',
+      'pass' => '',
+      'mail' => 'xxx1@mbpsoft.com',
+      'mail_verified' => '0',
+      'mobile_num' => '15921381934',
+      'mobile_verified' => '1',
+      'wechat' => '',
+      'weibo' => '',
+      'tengqq' => '',
+      'tel_num' => '',
+      'access' => '1499779239',
+      'login' => '1499779239',
+      'picture' => '0',
+      'v_status' => '1',
+      'v_date' => '1499779239',
+      'client_ip' => '210.13.68.34',
+      'last_client_ip' => '210.13.68.34',
+      'created' => '1499779239',
+      'update_date' => '2017-07-20 22:21:45',
+    ),
+    'agent_info' => 
+    array (
+      'aid' => '2',
+      'yyid' => 'F94C832C670C11E7A54A5254009FF7CE',
+      'u_yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+      'truename' => 'MBP-2',
+      'address' => '北京朝阳 峨山路12',
+      'employer_company' => '个人',
+      'expertise' => '内分泌及代谢性疾病领域,呼吸疾病领域,眼科疾病领域,传染及感染性疾病领域',
+      'identitycard' => '',
+      'points' => '0',
+      'birthday' => '',
+      'city' => '0',
+      'work' => '0',
+      'education' => '0',
+      'status' => '1',
+      'created' => '1499869107',
+      'update_date' => '2017-07-20 00:29:34',
+    ),
+  ),
+  'userMsg' => 'normal request',
+  'msg' => 'normal request',
+)
+13:28:18 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:28:18 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+13:28:26 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9806985660BF11E7A54A5254009FF7CE
+13:28:26 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9806985660BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+13:28:28 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:28:28 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+13:28:31 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '2',
+  'user_token' => 'X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:28:31 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+13:28:40 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	92	array (
+  'numFound' => 185,
+  'start' => 0,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => 'A63D6BAF6B7B11E7A54A5254009FF7CE',
+      'name' => '上海医院',
+      'grade' => ' ',
+      'address' => '上海徐汇 161',
+    ),
+    1 => 
+    array (
+      'yyid' => 'A63E3D266B7B11E7A54A5254009FF7CE',
+      'name' => '上海医院',
+      'grade' => ' ',
+      'address' => '上海徐汇 161',
+    ),
+    2 => 
+    array (
+      'yyid' => 'D7A2AA78534411E79E6C68F728954D54',
+      'name' => '上海中医院',
+      'grade' => '三级甲等',
+      'address' => '芷江路门诊:上海市芷江中路274号;石门路门诊:上海市石门一路67弄1号',
+    ),
+    3 => 
+    array (
+      'yyid' => '331A19E26D5311E7A54A5254009FF7CE',
+      'name' => '上海测试医院',
+      'grade' => '三级乙等',
+      'address' => '上海浦东新 峨山',
+    ),
+    4 => 
+    array (
+      'yyid' => '5EF54429534411E79E6C68F728954D54',
+      'name' => '上海胸科医院',
+      'grade' => '三级甲等',
+      'address' => '上海市淮海西路241号',
+    ),
+    5 => 
+    array (
+      'yyid' => 'BCB8891A534411E79E6C68F728954D54',
+      'name' => '上海市北站医院',
+      'grade' => '二级',
+      'address' => '上海闸北区南星路29号',
+    ),
+    6 => 
+    array (
+      'yyid' => '0B7DFF07534411E79E6C68F728954D54',
+      'name' => '上海市口腔医院',
+      'grade' => '三级',
+      'address' => '上海市北京东路356号(总院);上海市复兴中路1258号(分院);上海市永嘉路458号(永嘉路门诊部)',
+    ),
+    7 => 
+    array (
+      'yyid' => 'DFCFC00E534411E79E6C68F728954D54',
+      'name' => '上海市东方医院',
+      'grade' => '三级甲等',
+      'address' => '本部:上海市浦东新区即墨路150号;南院:上海市浦东新区云台路1800号',
+    ),
+    8 => 
+    array (
+      'yyid' => '1EDA4243534411E79E6C68F728954D54',
+      'name' => '上海长海医院',
+      'grade' => '三级甲等',
+      'address' => '上海市杨浦区长海路168号',
+    ),
+    9 => 
+    array (
+      'yyid' => 'D590E480534311E79E6C68F728954D54',
+      'name' => '上海计生所医院',
+      'grade' => '二级',
+      'address' => '上海市徐汇区斜土路2120号',
+    ),
+  ),
+)
+13:29:23 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9806985660BF11E7A54A5254009FF7CE
+13:29:23 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9806985660BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+13:29:33 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:29:33 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+13:29:36 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A',
+  'v' => '1',
+  'yyid' => 'BB82DD01663B11E7A54A5254009FF7CE',
+)
+13:29:36 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	BB82DD01663B11E7A54A5254009FF7CE , X1KxqtT23_RvwU_8GM3HdHcXEw8KtKInn81al6Hp28A
+16:27:15 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+16:27:15 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+16:27:28 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => '-cZrcjjeLrLu3UE6gA0tOs5xO7SUUiGzRz7VSMqrswA',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+16:27:28 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , -cZrcjjeLrLu3UE6gA0tOs5xO7SUUiGzRz7VSMqrswA
+16:27:28 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/dao/user/UserInfo.php	Dao_User_UserInfo	277	array (
+  'uid' => '8',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+  'sid' => '-cZrcjjeLrLu3UE6gA0tOs5xO7SUUiGzRz7VSMqrswA',
+  'client_ip' => '124.74.10.30',
+  'status' => '1',
+  'created' => '1500278708',
+  'login_from' => 'wechat',
+)
+16:27:32 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => '-cZrcjjeLrLu3UE6gA0tOs5xO7SUUiGzRz7VSMqrswA',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+16:27:32 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , -cZrcjjeLrLu3UE6gA0tOs5xO7SUUiGzRz7VSMqrswA
+16:27:42 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+16:27:42 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+16:27:50 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+16:27:50 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+17:35:00 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+17:35:00 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+17:35:18 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'bAx51kZKkrlRJi9Psfpp42_vEKze2yzUYYqpCWBPO74',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+17:35:18 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , bAx51kZKkrlRJi9Psfpp42_vEKze2yzUYYqpCWBPO74
+17:35:18 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/dao/user/UserInfo.php	Dao_User_UserInfo	277	array (
+  'uid' => '8',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+  'sid' => 'bAx51kZKkrlRJi9Psfpp42_vEKze2yzUYYqpCWBPO74',
+  'client_ip' => '140.206.255.91',
+  'status' => '1',
+  'created' => '1500534729',
+  'login_from' => 'wechat',
+)
+17:35:53 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Captcha.php	User_CaptchaController	32	str: zj86n
+17:35:53 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Captcha.php	User_CaptchaController	33	array (
+  'captval' => '1500629753,00583fb6fa76f5b38eb4d07aea5b854a',
+)
+17:36:04 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+17:36:04 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+17:36:06 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'bAx51kZKkrlRJi9Psfpp42_vEKze2yzUYYqpCWBPO74',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+17:36:06 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , bAx51kZKkrlRJi9Psfpp42_vEKze2yzUYYqpCWBPO74
+17:36:11 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	92	array (
+  'numFound' => 185,
+  'start' => 0,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => 'A63D6BAF6B7B11E7A54A5254009FF7CE',
+      'name' => '上海医院',
+      'grade' => ' ',
+      'address' => '上海徐汇 161',
+    ),
+    1 => 
+    array (
+      'yyid' => 'A63E3D266B7B11E7A54A5254009FF7CE',
+      'name' => '上海医院',
+      'grade' => ' ',
+      'address' => '上海徐汇 161',
+    ),
+    2 => 
+    array (
+      'yyid' => 'D7A2AA78534411E79E6C68F728954D54',
+      'name' => '上海中医院',
+      'grade' => '三级甲等',
+      'address' => '芷江路门诊:上海市芷江中路274号;石门路门诊:上海市石门一路67弄1号',
+    ),
+    3 => 
+    array (
+      'yyid' => '331A19E26D5311E7A54A5254009FF7CE',
+      'name' => '上海测试医院',
+      'grade' => '三级乙等',
+      'address' => '上海浦东新 峨山',
+    ),
+    4 => 
+    array (
+      'yyid' => '5EF54429534411E79E6C68F728954D54',
+      'name' => '上海胸科医院',
+      'grade' => '三级甲等',
+      'address' => '上海市淮海西路241号',
+    ),
+    5 => 
+    array (
+      'yyid' => 'BCB8891A534411E79E6C68F728954D54',
+      'name' => '上海市北站医院',
+      'grade' => '二级',
+      'address' => '上海闸北区南星路29号',
+    ),
+    6 => 
+    array (
+      'yyid' => '0B7DFF07534411E79E6C68F728954D54',
+      'name' => '上海市口腔医院',
+      'grade' => '三级',
+      'address' => '上海市北京东路356号(总院);上海市复兴中路1258号(分院);上海市永嘉路458号(永嘉路门诊部)',
+    ),
+    7 => 
+    array (
+      'yyid' => 'DFCFC00E534411E79E6C68F728954D54',
+      'name' => '上海市东方医院',
+      'grade' => '三级甲等',
+      'address' => '本部:上海市浦东新区即墨路150号;南院:上海市浦东新区云台路1800号',
+    ),
+    8 => 
+    array (
+      'yyid' => '1EDA4243534411E79E6C68F728954D54',
+      'name' => '上海长海医院',
+      'grade' => '三级甲等',
+      'address' => '上海市杨浦区长海路168号',
+    ),
+    9 => 
+    array (
+      'yyid' => 'D590E480534311E79E6C68F728954D54',
+      'name' => '上海计生所医院',
+      'grade' => '二级',
+      'address' => '上海市徐汇区斜土路2120号',
+    ),
+  ),
+)
+17:36:16 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/hospital/List.php	Hospital_ListController	92	array (
+  'numFound' => 185,
+  'start' => 10,
+  'docs' => 
+  array (
+    0 => 
+    array (
+      'yyid' => 'DBE5BBF5534311E79E6C68F728954D54',
+      'name' => '上海德济医院',
+      'grade' => '',
+      'address' => '上海市普陀区古浪路378号',
+    ),
+    1 => 
+    array (
+      'yyid' => 'E9F74C29534311E79E6C68F728954D54',
+      'name' => '上海市肿瘤医院',
+      'grade' => '三级甲等',
+      'address' => '上海市徐汇区东安路270号',
+    ),
+    2 => 
+    array (
+      'yyid' => '02E0ABA0534411E79E6C68F728954D54',
+      'name' => '上海市江湾医院',
+      'grade' => '二级',
+      'address' => '上海市虹口区场中路22号',
+    ),
+    3 => 
+    array (
+      'yyid' => '50954D8F534411E79E6C68F728954D54',
+      'name' => '上海和睦家医院',
+      'grade' => '',
+      'address' => '上海市长宁区仙霞路1139号',
+    ),
+    4 => 
+    array (
+      'yyid' => '549682E1534411E79E6C68F728954D54',
+      'name' => '上海长航医院',
+      'grade' => '二级',
+      'address' => '上海市浦东新区崂山路523号',
+    ),
+    5 => 
+    array (
+      'yyid' => '5E8E5554534411E79E6C68F728954D54',
+      'name' => '上海德达医院',
+      'grade' => '',
+      'address' => '上海市青浦区徐乐路109号',
+    ),
+    6 => 
+    array (
+      'yyid' => '61189834534411E79E6C68F728954D54',
+      'name' => '上海市浦东医院',
+      'grade' => '二级甲等',
+      'address' => '上海市浦东新区惠南镇拱为路2800号',
+    ),
+    7 => 
+    array (
+      'yyid' => '99F39D2A534411E79E6C68F728954D54',
+      'name' => '上海金山医院',
+      'grade' => '三级',
+      'address' => '上海市金山区龙航路1508号',
+    ),
+    8 => 
+    array (
+      'yyid' => 'ABED21EB534411E79E6C68F728954D54',
+      'name' => '上海市同仁医院',
+      'grade' => '二级甲等',
+      'address' => '上海市长宁区仙霞路1111号',
+    ),
+    9 => 
+    array (
+      'yyid' => 'D78AA209534411E79E6C68F728954D54',
+      'name' => '上海市肺科医院',
+      'grade' => '三级甲等',
+      'address' => '上海市杨浦区政民路507号',
+    ),
+  ),
+)
+17:37:50 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Captcha.php	User_CaptchaController	32	str: hwv92
+17:37:50 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Captcha.php	User_CaptchaController	33	array (
+  'captval' => '1500629870,8f120740279df6225ce6940cbd6111d9',
+)
+18:13:11 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+18:13:11 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+18:13:18 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'bAx51kZKkrlRJi9Psfpp42_vEKze2yzUYYqpCWBPO74',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+18:13:18 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , bAx51kZKkrlRJi9Psfpp42_vEKze2yzUYYqpCWBPO74
+20:52:58 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	9807B77160BF11E7A54A5254009FF7CE
+20:52:58 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => '9807B77160BF11E7A54A5254009FF7CE',
+  'u_yyid' => '',
+  'name' => '护固莱士',
+  'c_name' => '外用冻干人纤维蛋白粘合剂',
+  'e_name' => 'Fibrin Sealant（Human）',
+  'py_name' => 'Waiyong Donggan Ren Xianwei Danbai Nianheji',
+  'type' => '1',
+  'approval_id' => '国药准字S20030070',
+  'specs' => '2毫升',
+  'dosage_form' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'indication' => '局部止血药。辅助用于处理烧伤创面、普通外科腹部切口、肝脏手术创面和血管外科手术创面的渗血。',
+  'ingredients' => '主要组成成份：本品是一个混合包装的外用冻干人纤维蛋白粘合剂，',
+  'shape' => '冻干人纤维蛋白原：灰白色或淡黄色疏松体。',
+  'usage' => ' 常规消毒瓶塞以及使用过程中所用',
+  'adverse_reaction' => '临床试验未见不良反应。据文献报道，反复多次用药，有可能会发生过敏反应。',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 21:49:26',
+  'update_date' => '2017-07-04 21:49:26',
+)
+20:53:00 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'bAx51kZKkrlRJi9Psfpp42_vEKze2yzUYYqpCWBPO74',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+20:53:00 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , bAx51kZKkrlRJi9Psfpp42_vEKze2yzUYYqpCWBPO74
+20:53:16 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/ServeList.php	User_ServeListController	33	array (
+  'action' => 'list',
+  'os' => 'wechat',
+  'page' => '1',
+  'user_token' => 'bAx51kZKkrlRJi9Psfpp42_vEKze2yzUYYqpCWBPO74',
+  'v' => '1',
+  'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+)
+20:53:16 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , bAx51kZKkrlRJi9Psfpp42_vEKze2yzUYYqpCWBPO74
+20:53:17 INFO	/data/webapp/php-v2/QA/app-youyao-core/2017_06_01/classes/bll/user/UserInfo.php	Bll_User_UserInfo	135	A6863D996AC611E7A54A5254009FF7CE , bAx51kZKkrlRJi9Psfpp42_vEKze2yzUYYqpCWBPO74
+20:53:17 INFO	/data/webapp/php-v2/QA/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Profile.php	User_ProfileController	51	array (
+  'status' => 200,
+  'data' => 
+  array (
+    'base_info' => 
+    array (
+      'uid' => '8',
+      'yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+      'name' => 'Jun',
+      'pass' => '',
+      'mail' => '',
+      'mail_verified' => '0',
+      'mobile_num' => '13801786869',
+      'mobile_verified' => '1',
+      'wechat' => '',
+      'weibo' => '',
+      'tengqq' => '',
+      'tel_num' => '',
+      'access' => '1500278708',
+      'login' => '1500278708',
+      'picture' => '0',
+      'v_status' => '1',
+      'v_date' => '1500278708',
+      'client_ip' => '124.74.10.30',
+      'last_client_ip' => '124.74.10.30',
+      'created' => '1500278708',
+      'update_date' => '2017-07-17 16:05:33',
+    ),
+    'agent_info' => 
+    array (
+      'aid' => '4',
+      'yyid' => 'B57153B16AC611E7A54A5254009FF7CE',
+      'u_yyid' => 'A6863D996AC611E7A54A5254009FF7CE',
+      'truename' => '',
+      'address' => '',
+      'employer_company' => '',
+      'expertise' => '',
+      'identitycard' => '',
+      'points' => '0',
+      'birthday' => '',
+      'city' => '0',
+      'work' => '0',
+      'education' => '0',
+      'status' => '1',
+      'created' => '1500278733',
+      'update_date' => '2017-07-17 16:05:33',
+    ),
+  ),
+  'userMsg' => 'normal request',
+  'msg' => 'normal request',
+)

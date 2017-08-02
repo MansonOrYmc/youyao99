@@ -1,0 +1,41 @@
+/* public/Public css */
+
+.icon32{
+    height: 40px;
+}
+
+.pmsg-main {
+    padding:0;
+}
+
+.pmsg-content {
+    width:674px;
+    padding:15px;
+    background:#f6f6f6;
+}
+
+.pmsg-to {
+    margin:10px;
+}
+
+.pmsg-sign {
+    margin:10px;
+}
+
+.opera-div .opera-button{
+    margin-top: 30px;
+    display: block;
+    text-align: center;
+    margin-bottom:30px;
+}
+
+.tips-title {
+    text-align:center;
+    width:100%;
+    display:block;
+}
+
+.tips-row {
+    text-align:center;
+    color:#333;
+}

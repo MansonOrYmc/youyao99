@@ -1,0 +1,253 @@
+21:48:51 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+21:48:56 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+21:48:58 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+21:49:00 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+21:49:01 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+21:49:02 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+21:49:04 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+21:49:05 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+21:49:06 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+21:49:08 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+21:50:38 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+21:50:39 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+21:50:40 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+21:50:41 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+21:50:42 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+21:58:27 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/company/List.php	Company_ListController	83	array (
+  'numFound' => 0,
+  'start' => 0,
+  'docs' => 
+  array (
+  ),
+)
+23:51:49 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+23:51:49 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => 'DD059DE460C111E7882668F728954D54',
+  'u_yyid' => '',
+  'name' => '太洛汀',
+  'c_name' => '注射用胸腺法新',
+  'e_name' => 'Thymalfasin for Injection',
+  'py_name' => 'Zhusheyong Xiongxianfaxin',
+  'type' => '1',
+  'approval_id' => '国药准字H20133153',
+  'specs' => '1.6mg',
+  'dosage_form' => 'dosage_form',
+  'indication' => '1.慢性乙型肝炎。',
+  'ingredients' => '分子式： C129H215N33O55',
+  'shape' => '本品为白色或类白色疏松块状物。',
+  'usage' => '用前每瓶胸腺法新（1.6mg）以1ml注射用水溶解后立即皮下注射（不应作肌注或静注）。',
+  'adverse_reaction' => 'adverse_reaction',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 22:05:41',
+  'update_date' => '2017-07-04 22:05:41',
+)
+23:51:52 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+23:51:52 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => 'DD059DE460C111E7882668F728954D54',
+  'u_yyid' => '',
+  'name' => '太洛汀',
+  'c_name' => '注射用胸腺法新',
+  'e_name' => 'Thymalfasin for Injection',
+  'py_name' => 'Zhusheyong Xiongxianfaxin',
+  'type' => '1',
+  'approval_id' => '国药准字H20133153',
+  'specs' => '1.6mg',
+  'dosage_form' => 'dosage_form',
+  'indication' => '1.慢性乙型肝炎。',
+  'ingredients' => '分子式： C129H215N33O55',
+  'shape' => '本品为白色或类白色疏松块状物。',
+  'usage' => '用前每瓶胸腺法新（1.6mg）以1ml注射用水溶解后立即皮下注射（不应作肌注或静注）。',
+  'adverse_reaction' => 'adverse_reaction',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 22:05:41',
+  'update_date' => '2017-07-04 22:05:41',
+)
+23:51:56 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	44	DD059DE460C111E7882668F728954D54
+23:51:56 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/drug/BaseInfo.php	Drug_BaseInfoController	49	array (
+  'yyid' => 'DD059DE460C111E7882668F728954D54',
+  'u_yyid' => '',
+  'name' => '太洛汀',
+  'c_name' => '注射用胸腺法新',
+  'e_name' => 'Thymalfasin for Injection',
+  'py_name' => 'Zhusheyong Xiongxianfaxin',
+  'type' => '1',
+  'approval_id' => '国药准字H20133153',
+  'specs' => '1.6mg',
+  'dosage_form' => 'dosage_form',
+  'indication' => '1.慢性乙型肝炎。',
+  'ingredients' => '分子式： C129H215N33O55',
+  'shape' => '本品为白色或类白色疏松块状物。',
+  'usage' => '用前每瓶胸腺法新（1.6mg）以1ml注射用水溶解后立即皮下注射（不应作肌注或静注）。',
+  'adverse_reaction' => 'adverse_reaction',
+  'taboo' => 'taboo',
+  'attentions' => 'attentions',
+  'attentions_pw' => 'attentions_pw',
+  'attentions_ch' => 'attentions_ch',
+  'attentions_oa' => 'attentions_oa',
+  'overdose' => 'overdose',
+  'chinical_trial' => 'chinical_trial',
+  'toxicology' => 'toxicology',
+  'pharmacokinetics' => 'pharmacokinetics',
+  'storage_conditions' => 'storage_conditions',
+  'package' => 'package',
+  'period_validity' => 'period_validity',
+  'performance_standards' => 'performance_standards',
+  'price' => '0',
+  'preparation' => 'preparation',
+  'adaptation_department' => 'adaptation_department',
+  'therapeutic_field' => 'therapeutic_field',
+  'product_advantage' => 'product_advantage',
+  'channel' => 'channel',
+  'business_type' => 'business_type',
+  'medical_insurance' => '0',
+  'competitive_products' => 'competitive_products',
+  'manufacturer' => 'manufacturer',
+  'l_info' => '',
+  'v_info' => '',
+  'imgs_num' => '0',
+  'status' => '1',
+  'created' => '17-07-04 22:05:41',
+  'update_date' => '2017-07-04 22:05:41',
+)

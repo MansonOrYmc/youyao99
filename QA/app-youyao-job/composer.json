@@ -1,0 +1,16 @@
+{
+  "require": {
+    "php-amqplib/php-amqplib": "2.5.*"
+  },
+  "autoload": {
+    "psr-4": {
+      "Job\\": "classes/"
+    }
+  },
+  "repositories": {
+    "packagist": {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    }
+  }
+}

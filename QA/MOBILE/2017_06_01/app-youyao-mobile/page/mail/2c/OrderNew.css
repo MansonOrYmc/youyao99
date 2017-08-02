@@ -1,0 +1,24 @@
+.order_new_msg {
+    text-align: center;
+    font-size: 18px;
+    padding: 45px 90px;
+    color: #1a1a1a;
+}
+
+.order_new_msg b {
+    font-size: 18px;
+    font-weight: bold;
+    color: #1a1a1a;
+}
+
+#room_name {
+    margin-bottom: 42px;
+}
+
+#spec_services .service_name {
+    color: #1a1a1a;
+}
+
+#spec_services span {
+    margin-right: 10px;
+}

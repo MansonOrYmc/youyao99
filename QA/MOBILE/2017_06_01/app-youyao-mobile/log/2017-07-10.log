@@ -1,0 +1,4 @@
+23:38:53 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Captcha.php	User_CaptchaController	19	font: /data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/font/segoepr.ttf
+23:38:53 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Captcha.php	User_CaptchaController	21	font: /data/webapp/PROD/app-youyao-core/2017_06_01/classes/includes/font/segoepr.ttf
+23:39:06 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Captcha.php	User_CaptchaController	19	font: /data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/font/segoepr.ttf
+23:39:06 INFO	/data/webapp/PROD/MOBILE/2017_06_01/app-youyao-mobile/controller/user/Captcha.php	User_CaptchaController	21	font: /data/webapp/PROD/app-youyao-core/2017_06_01/classes/includes/font/segoepr.ttf

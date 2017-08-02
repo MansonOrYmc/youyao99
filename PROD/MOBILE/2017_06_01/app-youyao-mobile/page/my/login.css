@@ -1,0 +1,21 @@
+.select_skin{
+    position:relative;
+    width:108px;
+    height:28px;
+    margin-right:10px;
+    line-height:28px;
+    border:1px solid #b6b6b6;
+    -moz-border-radius: 3px;
+    -khtml-border-radius: 3px;
+    -webkit-border-radius: 3px;
+    border-radius: 3px;
+    -moz-box-shadow:1px 1px 1px #eee inset;
+    -webkit-box-shadow:1px 1px 1px #eee inset;
+    box-shadow:1px 1px 1px #eee inset;
+    background-position:right 0px;
+    cursor: pointer;
+}
+.select_skin_title{
+    padding-left:6px;
+    background-position:0 -76px\9;
+}
